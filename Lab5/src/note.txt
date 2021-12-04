@@ -1,0 +1,2 @@
+do not forget to add to VM options
+--module-path /usr/share/openjfx/lib --add-modules=javafx.controls
