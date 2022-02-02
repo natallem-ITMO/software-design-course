@@ -1,0 +1,2138 @@
+{
+    "data": [
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "divyad",
+            "author_flair_background_color": "#7193ff",
+            "author_flair_css_class": null,
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Other"
+                }
+            ],
+            "author_flair_template_id": "3db92496-15f2-11ea-8ede-0e2527b59bf1",
+            "author_flair_text": "Other",
+            "author_flair_text_color": "light",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_5jpzf",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1635069210,
+            "domain": "reddit.com",
+            "full_link": "https://www.reddit.com/r/TwoXIndia/comments/qep31a/some_flowers_from_my_friends_garden/",
+            "gallery_data": {
+                "items": [
+                    {
+                        "id": 80894040,
+                        "media_id": "e19gn7ukedv71"
+                    },
+                    {
+                        "id": 80894041,
+                        "media_id": "jsjo8aukedv71"
+                    },
+                    {
+                        "id": 80894042,
+                        "media_id": "hauc4aukedv71"
+                    },
+                    {
+                        "id": 80894043,
+                        "media_id": "g9peq6ukedv71"
+                    },
+                    {
+                        "id": 80894044,
+                        "media_id": "3cggfnvkedv71"
+                    }
+                ]
+            },
+            "gildings": {},
+            "id": "qep31a",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_gallery": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#014980",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Travel [All]"
+                }
+            ],
+            "link_flair_template_id": "0427945c-00fc-11ea-bd03-0e79eddcc902",
+            "link_flair_text": "Travel [All]",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media_metadata": {
+                "3cggfnvkedv71": {
+                    "e": "Image",
+                    "id": "3cggfnvkedv71",
+                    "m": "image/jpg",
+                    "p": [
+                        {
+                            "u": "https://preview.redd.it/3cggfnvkedv71.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=789201e6398b4c6d28aa63f1b68b6782791866a4",
+                            "x": 108,
+                            "y": 72
+                        },
+                        {
+                            "u": "https://preview.redd.it/3cggfnvkedv71.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=1f55d1d6fb8a9cbdc6adbf5ee3d4f198646b6e88",
+                            "x": 216,
+                            "y": 144
+                        },
+                        {
+                            "u": "https://preview.redd.it/3cggfnvkedv71.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=94d72b8c836fc65e0c3481071d992a01d9c062ab",
+                            "x": 320,
+                            "y": 214
+                        },
+                        {
+                            "u": "https://preview.redd.it/3cggfnvkedv71.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=efb93e4ac56fadeff84c877c1cb7ca3103a5975d",
+                            "x": 640,
+                            "y": 428
+                        },
+                        {
+                            "u": "https://preview.redd.it/3cggfnvkedv71.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=0879ea37f048ece1fecfd596214a80108916a3d7",
+                            "x": 960,
+                            "y": 642
+                        },
+                        {
+                            "u": "https://preview.redd.it/3cggfnvkedv71.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=8901c4422e584ee6551d4a4141c8a0cd7cc80cc2",
+                            "x": 1080,
+                            "y": 723
+                        }
+                    ],
+                    "s": {
+                        "u": "https://preview.redd.it/3cggfnvkedv71.jpg?width=2000&amp;format=pjpg&amp;auto=webp&amp;s=073e51f1e9933683a231fb32b08bcbc44912be02",
+                        "x": 2000,
+                        "y": 1339
+                    },
+                    "status": "valid"
+                },
+                "e19gn7ukedv71": {
+                    "e": "Image",
+                    "id": "e19gn7ukedv71",
+                    "m": "image/jpg",
+                    "p": [
+                        {
+                            "u": "https://preview.redd.it/e19gn7ukedv71.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=91cbafe7d0783dd7fe8335bb02d50586a073059c",
+                            "x": 108,
+                            "y": 72
+                        },
+                        {
+                            "u": "https://preview.redd.it/e19gn7ukedv71.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=730642250a4b8d804f5f6513361eff2f94817e3e",
+                            "x": 216,
+                            "y": 144
+                        },
+                        {
+                            "u": "https://preview.redd.it/e19gn7ukedv71.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d13fea26278ad24ece14e11fe7f55602914396e4",
+                            "x": 320,
+                            "y": 214
+                        },
+                        {
+                            "u": "https://preview.redd.it/e19gn7ukedv71.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ab255fe699b5c53bab76c34456f8246ff8a5c348",
+                            "x": 640,
+                            "y": 428
+                        },
+                        {
+                            "u": "https://preview.redd.it/e19gn7ukedv71.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=fd7407831c0bb27a878413ae53191712be994ae9",
+                            "x": 960,
+                            "y": 642
+                        },
+                        {
+                            "u": "https://preview.redd.it/e19gn7ukedv71.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=9c79ee7fadc0f96770065416757d6dd807d889ac",
+                            "x": 1080,
+                            "y": 723
+                        }
+                    ],
+                    "s": {
+                        "u": "https://preview.redd.it/e19gn7ukedv71.jpg?width=2000&amp;format=pjpg&amp;auto=webp&amp;s=b692a076d39c0cfd9989a1778142f1a3732ccfe7",
+                        "x": 2000,
+                        "y": 1339
+                    },
+                    "status": "valid"
+                },
+                "g9peq6ukedv71": {
+                    "e": "Image",
+                    "id": "g9peq6ukedv71",
+                    "m": "image/jpg",
+                    "p": [
+                        {
+                            "u": "https://preview.redd.it/g9peq6ukedv71.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=48c43ce467498340e5f829b7a842cb2646a31a67",
+                            "x": 108,
+                            "y": 72
+                        },
+                        {
+                            "u": "https://preview.redd.it/g9peq6ukedv71.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=bc2bb489972342185acd04e46076e6a733964561",
+                            "x": 216,
+                            "y": 144
+                        },
+                        {
+                            "u": "https://preview.redd.it/g9peq6ukedv71.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=55de58d746d79da217d7c9abe0ac3305d11615f5",
+                            "x": 320,
+                            "y": 214
+                        },
+                        {
+                            "u": "https://preview.redd.it/g9peq6ukedv71.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1e6dda489ba9cebff64530ecc708c49778f8df4",
+                            "x": 640,
+                            "y": 428
+                        },
+                        {
+                            "u": "https://preview.redd.it/g9peq6ukedv71.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=5d9c2ec42b0d1acc2ba1952f6672a6895b35d78f",
+                            "x": 960,
+                            "y": 642
+                        },
+                        {
+                            "u": "https://preview.redd.it/g9peq6ukedv71.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=5302046e0a9826e611f92f524d5495f94beaaa90",
+                            "x": 1080,
+                            "y": 723
+                        }
+                    ],
+                    "s": {
+                        "u": "https://preview.redd.it/g9peq6ukedv71.jpg?width=2000&amp;format=pjpg&amp;auto=webp&amp;s=204156b205366ea57a0f6d1707b189a8427c894a",
+                        "x": 2000,
+                        "y": 1339
+                    },
+                    "status": "valid"
+                },
+                "hauc4aukedv71": {
+                    "e": "Image",
+                    "id": "hauc4aukedv71",
+                    "m": "image/jpg",
+                    "p": [
+                        {
+                            "u": "https://preview.redd.it/hauc4aukedv71.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=40d0a9c4741da5efef4379ce7087d0dd6158dfca",
+                            "x": 108,
+                            "y": 72
+                        },
+                        {
+                            "u": "https://preview.redd.it/hauc4aukedv71.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=8d42240fe0be98c240ea0da4fbfa2ef99b5b44de",
+                            "x": 216,
+                            "y": 144
+                        },
+                        {
+                            "u": "https://preview.redd.it/hauc4aukedv71.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b1964a35e3d2b025f022491c37be4a0d61dc1d12",
+                            "x": 320,
+                            "y": 214
+                        },
+                        {
+                            "u": "https://preview.redd.it/hauc4aukedv71.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d530b4ae74dde7b21bf4246aae44cd8692fbcde8",
+                            "x": 640,
+                            "y": 428
+                        },
+                        {
+                            "u": "https://preview.redd.it/hauc4aukedv71.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=ef96028c4664aa50819debbb489bcd215de72fc5",
+                            "x": 960,
+                            "y": 642
+                        },
+                        {
+                            "u": "https://preview.redd.it/hauc4aukedv71.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=bd6f57a733d373ce168d440553f90d87cc085664",
+                            "x": 1080,
+                            "y": 723
+                        }
+                    ],
+                    "s": {
+                        "u": "https://preview.redd.it/hauc4aukedv71.jpg?width=2000&amp;format=pjpg&amp;auto=webp&amp;s=b0e77bcf14dd2aa774506bf6b6f62fd7e542fae8",
+                        "x": 2000,
+                        "y": 1339
+                    },
+                    "status": "valid"
+                },
+                "jsjo8aukedv71": {
+                    "e": "Image",
+                    "id": "jsjo8aukedv71",
+                    "m": "image/jpg",
+                    "p": [
+                        {
+                            "u": "https://preview.redd.it/jsjo8aukedv71.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=a205cdf7c5ab075508d80e52e7ac1eb1b5546d45",
+                            "x": 108,
+                            "y": 72
+                        },
+                        {
+                            "u": "https://preview.redd.it/jsjo8aukedv71.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=62b13e2a31f763f8de74392e5ad9d2c11d4fd0fa",
+                            "x": 216,
+                            "y": 144
+                        },
+                        {
+                            "u": "https://preview.redd.it/jsjo8aukedv71.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d4e67481a5809ffea74829c195fad59a9ee07885",
+                            "x": 320,
+                            "y": 214
+                        },
+                        {
+                            "u": "https://preview.redd.it/jsjo8aukedv71.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=869f3928fdf6cfa3385bfc6f707b9c458d4d8bd0",
+                            "x": 640,
+                            "y": 428
+                        },
+                        {
+                            "u": "https://preview.redd.it/jsjo8aukedv71.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=fc65ebc59102217084a76303d9cc01336086d9b6",
+                            "x": 960,
+                            "y": 642
+                        },
+                        {
+                            "u": "https://preview.redd.it/jsjo8aukedv71.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=0821869ec3b2f580d2753e46f83223d42b12e616",
+                            "x": 1080,
+                            "y": 723
+                        }
+                    ],
+                    "s": {
+                        "u": "https://preview.redd.it/jsjo8aukedv71.jpg?width=2000&amp;format=pjpg&amp;auto=webp&amp;s=251dc8f0fe85cc32205685f0c3c2ec354ad92d72",
+                        "x": 2000,
+                        "y": 1339
+                    },
+                    "status": "valid"
+                }
+            },
+            "media_only": false,
+            "no_follow": true,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "no_ads",
+            "permalink": "/r/TwoXIndia/comments/qep31a/some_flowers_from_my_friends_garden/",
+            "pinned": false,
+            "pwls": 0,
+            "retrieved_on": 1635069222,
+            "score": 1,
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "TwoXIndia",
+            "subreddit_id": "t5_3eg84",
+            "subreddit_subscribers": 10150,
+            "subreddit_type": "public",
+            "thumbnail": "https://b.thumbs.redditmedia.com/Nrh5THpac1Q2mYUy-FpK7srcqNHOo-sJGtzEH1EWREM.jpg",
+            "thumbnail_height": 93,
+            "thumbnail_width": 140,
+            "title": "some flowers from my friend's garden \ud83e\udd70",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://www.reddit.com/gallery/qep31a",
+            "url_overridden_by_dest": "https://www.reddit.com/gallery/qep31a",
+            "whitelist_status": "no_ads",
+            "wls": 0
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "_poipon_",
+            "author_flair_background_color": "#00a6a5",
+            "author_flair_css_class": null,
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "IGN: PoiPon, Island: Plumeria"
+                }
+            ],
+            "author_flair_template_id": "7719d9e2-959a-11ea-a4af-0e96554cdd9d",
+            "author_flair_text": "IGN: PoiPon, Island: Plumeria",
+            "author_flair_text_color": "light",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_13cf40n3",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1635069312,
+            "domain": "i.redd.it",
+            "full_link": "https://www.reddit.com/r/NoFeeAC/comments/qep3qn/giving_away_blue_flowers_comment_what_you_need/",
+            "gildings": {},
+            "id": "qep3qn",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": true,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#ffb000",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Flower Giveaway"
+                }
+            ],
+            "link_flair_template_id": "e219163a-b80a-11ea-939e-0e69fd7ecf4f",
+            "link_flair_text": "Flower Giveaway",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media_only": false,
+            "no_follow": true,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/NoFeeAC/comments/qep3qn/giving_away_blue_flowers_comment_what_you_need/",
+            "pinned": false,
+            "post_hint": "image",
+            "preview": {
+                "enabled": true,
+                "images": [
+                    {
+                        "id": "qxqKSFgXWZfUP3N-tjcc7wWfY_ieRlRMbyuJCWi9mnM",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://preview.redd.it/fisamyj0fdv71.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ddbb87f302399818c2c7f9ccacfa0e1184c060c9",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://preview.redd.it/fisamyj0fdv71.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=bda783f20524a1003e9800808fc877baa2d8c238",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://preview.redd.it/fisamyj0fdv71.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6bb8e9d1b5d6fc8721be9901e3d36e4883faaa90",
+                                "width": 320
+                            },
+                            {
+                                "height": 360,
+                                "url": "https://preview.redd.it/fisamyj0fdv71.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=19257394b11f6e45b66a3488df205acf53ea2dd4",
+                                "width": 640
+                            },
+                            {
+                                "height": 540,
+                                "url": "https://preview.redd.it/fisamyj0fdv71.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=99d9013e1a1ec6c68cd8d8d7e9b57933e600a4fd",
+                                "width": 960
+                            },
+                            {
+                                "height": 607,
+                                "url": "https://preview.redd.it/fisamyj0fdv71.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=d55ba0f5fa295f0c34f376568087d6d43abd8a23",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 720,
+                            "url": "https://preview.redd.it/fisamyj0fdv71.jpg?auto=webp&amp;s=787a749a1e0b6b9957e37e3f823f18c8d30dda0d",
+                            "width": 1280
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "retrieved_on": 1635069323,
+            "score": 1,
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "NoFeeAC",
+            "subreddit_id": "t5_2leptk",
+            "subreddit_subscribers": 104395,
+            "subreddit_type": "public",
+            "suggested_sort": "old",
+            "thumbnail": "https://b.thumbs.redditmedia.com/2kNG9mJ53DieBv8VbWc9z9-wq6jWAKFfd2A2l6b1DYg.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Giving away blue flowers! Comment what you need and I will dm you \ud83d\udc99",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://i.redd.it/fisamyj0fdv71.jpg",
+            "url_overridden_by_dest": "https://i.redd.it/fisamyj0fdv71.jpg",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "Khemixtry",
+            "author_flair_background_color": "#b725d4",
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": "868d7c14-cd3c-11eb-9295-0ea2156251e5",
+            "author_flair_text": "Beverly Hillz",
+            "author_flair_text_color": "light",
+            "author_flair_type": "text",
+            "author_fullname": "t2_zxnno",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1635069609,
+            "domain": "self.DeePressionsDragRace",
+            "full_link": "https://www.reddit.com/r/DeePressionsDragRace/comments/qep61l/total_aries_drag_race_episode_6_midsommaries/",
+            "gildings": {},
+            "id": "qep61l",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#ffff00",
+            "link_flair_richtext": [],
+            "link_flair_template_id": "bdaf8e1e-fdff-11eb-a6e6-1eae8d53e6af",
+            "link_flair_text": "Total Aries Drag Race",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "text",
+            "locked": false,
+            "media_metadata": {
+                "2ih1841qfdv71": {
+                    "e": "Image",
+                    "id": "2ih1841qfdv71",
+                    "m": "image/png",
+                    "p": [
+                        {
+                            "u": "https://preview.redd.it/2ih1841qfdv71.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=d3f4e44757a26611cbebc7ca059965434ca10f26",
+                            "x": 108,
+                            "y": 45
+                        },
+                        {
+                            "u": "https://preview.redd.it/2ih1841qfdv71.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=e869a05248c20c5b59c0bd8b5b068cae58235887",
+                            "x": 216,
+                            "y": 90
+                        },
+                        {
+                            "u": "https://preview.redd.it/2ih1841qfdv71.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=3a81e8f9af1e5f9e4c2cebbc53839b8e5438181e",
+                            "x": 320,
+                            "y": 133
+                        },
+                        {
+                            "u": "https://preview.redd.it/2ih1841qfdv71.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cf59449f786815637638907622a3b3754078905e",
+                            "x": 640,
+                            "y": 267
+                        }
+                    ],
+                    "s": {
+                        "u": "https://preview.redd.it/2ih1841qfdv71.png?width=748&amp;format=png&amp;auto=webp&amp;s=173cca487fdd1b74ee8818fd6d394cf10c93f10f",
+                        "x": 748,
+                        "y": 313
+                    },
+                    "status": "valid"
+                }
+            },
+            "media_only": false,
+            "no_follow": true,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "permalink": "/r/DeePressionsDragRace/comments/qep61l/total_aries_drag_race_episode_6_midsommaries/",
+            "pinned": false,
+            "post_hint": "self",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "bSGBsCcv1XdC8GDFOHBwRIWDb3kkx9DADJdvf_WwbbQ",
+                        "resolutions": [
+                            {
+                                "height": 81,
+                                "url": "https://external-preview.redd.it/Lvlqq0uiocgHANcSy0WmmbkbOztw8EhaXc3D88dxTwE.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=e23197fffdc794b808f641360da58c0a6884bec5",
+                                "width": 108
+                            },
+                            {
+                                "height": 162,
+                                "url": "https://external-preview.redd.it/Lvlqq0uiocgHANcSy0WmmbkbOztw8EhaXc3D88dxTwE.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=e4d9ffd809742b143b84a3c09b97d5c33f367f64",
+                                "width": 216
+                            },
+                            {
+                                "height": 240,
+                                "url": "https://external-preview.redd.it/Lvlqq0uiocgHANcSy0WmmbkbOztw8EhaXc3D88dxTwE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cbfb6b9e9459120f0d6b06e03ea125cb7b18125d",
+                                "width": 320
+                            }
+                        ],
+                        "source": {
+                            "height": 360,
+                            "url": "https://external-preview.redd.it/Lvlqq0uiocgHANcSy0WmmbkbOztw8EhaXc3D88dxTwE.jpg?auto=webp&amp;s=1db5c2d6a9ad80663447fd0766b78820b4e95d2c",
+                            "width": 480
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "retrieved_on": 1635069621,
+            "score": 1,
+            "selftext": "**LAST TIME ON TOTAL ARIES DRAG RACE\u2026**\n\nAfter **Lyric\u2019s** shocking departure, both teams came back to compete in our ballroom-inspired challenge entitled \u2018Legendaries!\u2019 In the workroom, the **Lips** all worked together under the direction of **Arthur**, and on the **Stilettos**, **Treeattle** was their leader, even if some *rock stars* would beg to differ. In the end, **Treeattle** won for the **Stilettos**, while **Arthur** sent home the choreographically-incompotent **Poka**!\n\n\u201cWill the **Lips** be able to bounce back? Will the **Stilettos** continue to conquer? *Who will be our May Queen?* Find out NOW on\n\n**TOTAL** \n\n**ARIES**\n\n**DRAG RACE**!\u201d\n\n**ONE EPIC THEME SONG LATER**\n\nWe cut back to the workroom where the **Stilettos** are all waiting around to see which of the **Lips** were given the chop.\n\n\u201cWho do you think will be going home, ladies?\u201d **Dee** asks the rest of the group. \n\n\u201cDo we really need to answer that?\u201d **Treeattle** replies, \u201c**Poka**, obviously.\u201d\n\n*(cuts to* ***Treeattle*** *in confessionals)*\n\n**Treeattle**: \u201c**Poka** is a fucking flop. I sent that bitch home once, hopefully someone will send her back home again.\u201d \n\n*(cuts back to the workroom)* \n\nEveryone begins to nod in agreement as the **Lips** begin walking into the workroom. \n\n\u201cWe\u2019re back!\u201d **Madame** shouts.\n\n\u201cOf course that flop bitch went home!\u201d **Treeattle** says. \n\n\u201cYou\u2019re telling me!\u201d **Arthur** says, walking back to his station to get out of drag.\n\n\u201cThe fuck\u2019s his problem?\u201d **Envy** asks.\n\n\u201cHe was voted in to lip-sync,\u201d **IIV** says. \u201cI assume he\u2019s just being bitter.\u201d \n\n*(cuts to* ***Arthur*** *in confessionals)* \n\n**Arthur**: \u201cI\u2019m so tired of the disrespect from my team! I\u2019m the dom daddy that abuses people, not them!\u201d \n\n*(cuts back to the workroom)*\n\n**Arthur** quickly finishes de-dragging and walks out of the studio. \n\n\u201cOkay, then!\u201d **Gaydzag** says. \u201cAnyways, congrats **Treeattle**\u201d \n\nThe competitors clap.\n\n\u201cThank you!\u201d **Treeattle** chirps. \u201cI\u2019m just glad that you all are finally able to see that I am a threat.\u201d \n\n\u201cDefine threat,\u201d **Envy** scoffs. \n\n\u201cDefine being stagnant ever since your first episode,\u201d **Treeattle** claps back\n\n**Envy** walks away and the competitors begin de-dragging and heading back to the hotel for the night.\n\nThe next morning comes and the competitors strut back into the workroom in their teams, ready for the chaos to come. \n\n\u201cS\u0335o\u0338 \u0338w\u0334h\u0335a\u0335t\u0335 \u0336d\u0334o\u0334 \u0337y\u0335o\u0336u\u0338 \u0338a\u0334l\u0336l\u0334 \u0337t\u0337h\u0336i\u0337n\u0337k\u0336 \u0338t\u0338h\u0337e\u0336 \u0338c\u0334h\u0337a\u0338l\u0338l\u0334e\u0334n\u0337g\u0335e\u0334 \u0336w\u0334i\u0335l\u0336l\u0337 \u0338b\u0335e\u0334 \u0337t\u0334h\u0337i\u0337s\u0336 \u0335w\u0337e\u0338e\u0336k\u0338?\u201d **Orb** asks.\n\n\u201cOne where you can actually be able to speak and act like a normal fucking person\u201d **Envy** scoffs. \n\n**Orb** begins turning red with anger, but before it can smite **Envy** to the ground, a siren begins to play.\n\n\u201cATTENTION COMPETITORS! THE STARS ARE ABOUT TO ALIGN! GET READY AND GET IN A LINE!\u201d \n\nBoth teams proceed to get in their lines as **Aries** comes through the door. \n\n\u201cHello, hello, hello!\u201d **Aries** cheers. \u201cHow are my eleven competitors doing?\u201d \n\nA generally positive reaction comes from both teams. \n\n\u201cAmazing! Anyways, as the season approaches, we collectively get closer and closer to every gay boy\u2019s favorite holiday: Halloween!\u201d\n\nA few gay screeches emit from the competitors. \n\n\u201cAnd what really gets you in the Halloween spirit more than a good horror flick? That\u2019s right: today, each team will be acting in my hottest new horror film: \u2018**Midsommaries**!\u2019 The **Sensual Stilettos** will be playing a secluded cult in the edges of Sweden, and the **Luscious Lips** will play the group of quirky Americans that visit them! Each team will have six hours to assign parts and memorize their lines before you meet me and your *special director* on set! Go!\u201d \n\nBoth teams begin running around, grabbing scripts, and meet together to figure out their game plan. \n\n\u201cSo,\u201d **La Fruta** says, \u201cwho will be playing what?\u201d\n\nOver time, everyone gets their roles assigned, however, two queens have a conflict when it comes to the main part.\n\n\u201cI honestly think I\u2019d kill it at Pepe,\u201d **Carrie** says. \n\n\u201cI\u2019m sure you probably will, however, I just don\u2019t think you\u2019ll be able to pull it off,\u201d **Bagelle** retorts, gripping onto her knee to restrain herself from cussing out **Carrie**. \n\n*(cuts to* ***Bagelle*** *in confessionals)*\n\n**Bagelle**: \u201cListen, I\u2019m trying my best, but **Carrie** has another thing coming if she thinks she\u2019s taking the role of Pepe away from me.\u201d \n\n*(cuts back to the workroom)* \n\n\u201cHey, **Lips**, can you leave for a moment?\u201d **Dee** says. \n\nThe **Lips** oblige and leave the **Stilettos** to rehearse their lines.\n\n\u201cHere\u2019s what we are going to do,\u201d **Dee** says. \u201cLet\u2019s have both of you perform the part, and we will vote on who we think performed better. Bitch with the most votes gets the part, while the other queen gets the role of Inabar. Deal?\u201d \n\n**Bagelle** and **Carrie** nod. \n\n**Bagelle** does first, completely stealing the show and serving Florence Pugh fantasy. \n\n**Carrie** goes after. While her performance was a tad rocky at first, it picks up by the end and she ends up doing a great job. However, when the time for voting came, everyone voted for **Bagelle**. \n\n*(cuts to* ***Carrie*** *in confessionals)*\n\n**Carrie**: \u201c**Bagelle** winning? Again? I fucking hate it here!\u201d \n\n*(cuts back to the workroom)*\n\nWith the final roles assigned, the final cast ended up being this: \n\n**The Harhar**\n\n* **Bagelle** as Pepe\n* **Dee** as Uuf\n* **La Fruta** as Sip \n* **Treeattle** as Maha\n* **Envy** as Dagnit \n* **Carrie** as Inabar\n\n**The Visitors**\n\n* **IIV** as Dahlia\n* **Arthur** as Christopher\n* **Gaydzag** as Joey\n* **Madame** as Marlo \n* **Orb** as both Simone and Colleen\n\nOver at the **Lips**, one team member is seemingly making the others mad. \n\n\u201cNo, no, no, **Gaydzag**!\u201d **Arthur** shrieks. \u201cThat\u2019s not what the line is!\u201d \n\n**Madame** and **IIV** look at each other and roll their eyes. \n\n*(cuts to* ***Madame*** *in confessionals)*\n\n**Madame**: \u201cI am SO over **Arthur\u2019s** bossy attitude! Ever since last week, he\u2019s been nothing but a pain for everyone!\u201d \n\n*(cuts back to the workroom)*\n\nOut of annoyance, **Arthur** tells everyone to take a five minute break, to which **IIV** and **Madame** go off to get water. \n\n\u201cUgh, I\u2019m so over him,\u201d **Madame** scoffs. \n\n\u201cI know right,\u201d **IIV** replies. \u201cHe\u2019s almost actively trying to make us hate-\u201d \n\nAs **IIV** reaches for a paper cut to fill it with water, something drops out from the canister. \n\n\u201cWhat\u2019s this?\u201d **IIV** says curiously. \n\nTime passes and both teams head onto set. \n\n\u201cWelcome everyone!\u201d **Aries** says. \u201cShall we begin?\u201d \n\nBoth teams nod. \n\n\u201cOh wait, I think we are forgetting someone. DIRECTOR!\u201d \n\nSuddenly, a cloaked figure walks into the room. A few people recognize them and begin losing their minds. \n\n\u201cI\u2019m so into directing right now,\u201d **Rivera Styx** says as she joins **Aries** in a director\u2019s chair. \n\nEveryone loses their minds. \n\n\u201cRelax, competitors!\u201d **Aries** says. \u201c**Rivera** will be assisting you all this week during filming. DON\u2019T FUCK THIS UP!\u201d\n\nThe teams then proceed to perform their script. Overall, both groups do a solid job. The best performers of the night were **Bagelle**, **Dee**, **Gaydzag**, and **IIV**, while the worst of the night were **Arthur**, **Envy**, **Orb**, and **Treeattle**. **Arthur** was particularly notable for forgetting all of his lines while also managing to correct everyone else\u2019s lines. \n\n\u201cAmazing work, everyone!\u201d **Rivera** says. \u201cCan\u2019t wait to edit this together and see the final product!\n\nBoth teams proceed to go off set and head back to their hotels for the evening.\n\nThe next day, both teams walk back into the workroom and proceed to get into their runway outfits.\n\n\u201cSo how are we feeling about today,\u201d **Gaydzag** asks the rest of the group.\n\nEveryone says the typical answers, however, things get real once we get to a *doughy* competitor.\n\n\u201cI\u2019m just so happy to act again,\u201d **Bagelle** says. \u201cEver since the pandemic, theatres have been shut down so a lot of performances had to happen online, which, while fun, really isn\u2019t the same as belting a power ballad to a packed crowd.\u201d \n\n*(cuts to* ***Bagelle*** *in confessionals)*\n\n**Bagelle**: \u201cEver since I was a young boy, I\u2019ve always been attracted to theatre. Acting became my outline to thrive.\u201d \n\n*(cuts back to the workroom)*\n\n\u201cI hope you know that we all love you and think you are and did amazing,\u201d **La Fruta** says, giving **Bagelle** a hug. \n\n*(cuts to* ***Carrie*** *in confessionals)*\n\n**Carrie**: \u201cI can\u2019t get over how everyone is \u2018oh **Bagelle** this\u2019 and \u2018oh **Bagelle** that.\u2019 WHAT ABOUT ME?\u201d\n\n*(cuts to the mainstage)* \n\nOn the mainstage, **Aries** walks down the runway in a ball gown inspired by Dani\u2019s May Queen look in *Midsommar*, with flowers covering her entire dress and body.\n\n\u201cWelcome to the mainstage of Total Aries Drag Race!\u201d **Aries** says. \u201cShe\u2019s kooky and she\u2019s spooky, it\u2019s **Beverly Hillz**! How are ya, **Bev**?\u201d\n\n\u201cBOO!\u201d **Beverly** barks from the judges table. \n\n**Aries** shrieks. \u201cGood to hear! Speaking of things that are terrifying, it's **Brianna Con Brio**! How are ya, **Bri**?\u201d \n\n\u201cYou call me scary? You\u2019re literally myself but with less emotional stability!\u201d **Brianna** claps back.\n\n**Aries** rolls her eyes. \u201cFuck off, mom! And this week, joining us on the panel, please welcome extra special guest judge **Rivera Styx**! How are you, icon?\u201d \n\n\u201cI\u2019m feeling amazing, dear, especially after killing a killer,\u201d **Rivera** laughs.\n\n**Aries** stares on in horror. \u201cSure, Zodya hater! This week, I\u2019ve asked both teams to act together in my new horror film, \u2018Midsommaries!\u2019 And after that, everyone will be walking in their horrific **Horror** runway looks! Everyone, the stars are about to align, so let\u2019s see if these artists fall in line!\u201d  \n\n\u201cFirst up, the **Luscious Lips**!\u201d \n\n**Arthur** walks down in a gender-bent La Llorona look. His pale white and blue suit looks tattered and distressed, and his hair is mangled and messy. Halfway through the runway, he shrikes like a banshee and begins to weep blood.\n\n**Gaydzag** walks down the runway in a Wendigoon cosplay! His tropical shirt and amazing hair looks exactly like the iconic YouTuber. However, once he reaches the left side of the runway, he reveals into [the distorted Jesus from The Mandela Catalogue](https://youtu.be/q0EpOiu8YkI?t=159). **Aries** goes apeshit with the reference, while the others look confused. Once he reaches the right side of the stage, he transforms into a sexy daddy-esque wendigo. It\u2019s camp.\n\n**IIV** walks down the runway in a bimbofied remake of Jason Voorhees. While the mask and machete are exact, her blood-stained clothes accentuate her *features*, and she serves sex on the runway. \n\n**Madame** walks out in a gothic Marie Antoinette look. Her garment looks like a washed-out dress from an 1800s French noblewoman, and there is a pale green fascinator around her neck. Halfway down the runway, she rips it off, revealing her next to be poorly stitched together and covered in blood.\n\n**Orb** floats down the runway looking like a naked white humanoid. Once it reaches the end of the runway, a suit and pants appear on its body, and long, black tentacles come out from it\u2019s back, serving Slenderman realness.  \n\n\u201cUp next, the **Sensual Stilettos**!\u201d \n\n**Bagelle** walks down the runway dressed as a stripper in fishnets and a red latex cocktail dress, however, the twist is she has an entire axe sticking out of her head. Once she gets to the edge of the runway, the true details of the SFX are revealed, with the blood and head trauma looking incredibly realistic. Her walks also perfectly blends camp and creepy.\n\n**Carrie** walks down the runway as a feminine version of Chucky. Her nappy hair reaches down to the floor, and she carries around a long, bloodied knife..\n\n**Dee** walks down the runway in an homage to the Phantom from *The Phantom of the Opera*. A long back cloak glides down the runway as she also wears a crimson and black velvet dress. The infamous mask is also in play as hell, and halfway through the runway, the mask is ripped off to reveal a grizzled and fucked up face.\n\n**Envy** walks down the runway completely naked, with her entire body being impaled by CDs and vinyl records. Every single disk shines in the light, and each drenches parts of her body with blood.\n\n**La Fruta** also walks down the runway completely naked in a homage to the film *Antichrist*. Up and down her entire body, long tree roots swirl around her, accentuating her curves. Layers of blood cover her breasts and her cooch, and a giant grindstone is brutally nailed into her legs. Her long black hair and walk are dripping in sex, and **Aries** lives for the moment.\n\n**Treeattle** walks down the runway dressed as a sexy zombie, green skin and all! While the look itself is basic, her walk is incredibly camp.\u201d   \n\nOnce the runway ends, both teams stand on stage. \n\n\u201cNow introducing the premiere of my hit film, \u2018Midsommaries!\u2019\u201d\n\nThe film runs and everything from the filming was reflected in the film. The film itself perfectly blends spook with a few bits of camp, and once it\u2019s over, everyone laughs and claps.\n\n\u201cHello, competitors,\u201d **Aries** says, \u201cbefore we get into critiques, I just want to say thank you for such a job well done this week. You truly killed it.\u201d\n\n**Aries** and the other judges clap for the competitors. \n\n\u201cHowever, one team must win, and the winning team this week...IS\u2026\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n...**the Sensual Stilettos**!\u201d \n\nThe **Stilettos** all cheer.\n\n\u201cGreat work this week!\u201d **Aries** says. \u201cIn particular, I wish to commend **Bagelle** for not only giving us a fun runway, but for truly demolishing this week\u2019s challenge. Congratulations!\u201d \n\nThe **Stilettos** run backstage. \n\n\u201cNow, it\u2019s time for our critiques this week,\u201d **Aries** says. First up, **Arthur**!\u201d \n\n**Brianna**: \u201cHey, **Arthur**! What happened this week? Last week, you were completely unstoppable and excelled in the challenge, but this week, you looked like a deer in headlights! You need to be able to get out of your head and persevere!\u201d \n\n**Rivera**: \u201cI 100% agree. On the runway, however, I truly love this! It takes a classic horror figure and makes it 100% **Arthur Dayne**. If you transfer some of the power and iconicness from your runways into your acting, you\u2019d be unstoppable!\u201d \n\n\u201cNext up, **Gaydzag**!\u201d \n\n**Rivera**: \u201cIn terms of the challenge, I think you did a great job! You truly excelled as Joey and really camped it up. Great work!\u201d \n\n**Beverly**: \u201cIn terms of your runway, I know **Aries** loves it, but I don\u2019t. It was chaotic and extremely mediocre. The wendigo at the end was cute, though, in more ways than one!\u201d \n\n\u201cNext up, **IIV**!\u201d \n\n**Brianna**: \u201cHello, **IIV**! Outstanding job! I honestly felt that you were the strongest actress on your team! You truly were Dahlia through and through and were captivating. Amazing work!\u201d \n\n**Rivera**: \u201cIn terms of runway, it was fun! I loved the nod to Jason and how you were able to make it this slutty, sex character. I can proudly say that, after tonight, I\u2019m an **IIV** stan, even if you robbed me from being in the final two of FMDR:ISS!\u201d \n\n\u201cNext up, **Madame**!\u201d \n\n**Rivera**: \u201cHey, **Madame**! Tonight, you were fine. Nothing more, nothing less. Fine. Step it up.\u201d \n\n**Beverly**: \u201cNow, let\u2019s get to your runway. While I personally think you\u2019re one of the best runway queens of the season, tonight felt a bit predictable. It was glamorous, it was French, it was **Madame LeFart**. Give us something different!\u201d\n\n\u201cNext up, **Orb**!\u201d \n\n**Brianna**: \u201cHey, **Orb**! Tonight, I think you struggled a lot in terms of acting. You seemed to feel a bit *too* robotic and alien, which was out of place. I hope you\u2019ll be able to bring it again next time!\u201d \n\n**Rivera**: \u201cIn terms of your runway, while it was fun, it was also just a basic Slenderman cosplay. You can do a lot of cool things with your form, so please, next time just give us everything!\u201d\n\n\u201cThank you, judges!\u201d **Aries** says. \u201cIf I call your name, please step forward!\u201d \n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n**IIV**.\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n**Gaydzag**. \n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n**Madame LeFart**. \n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n**Magic Space Orb**.\n\n\u201cYou all are safe! Please step back but remain on the stage.\u201d\n\n\u201cThat means that, **Arthur Dayne**, you have been selected by the judges as the worst of the week and will be up for elimination.\u201d\n\n*(cuts to* ***Arthur*** *in confessionals)*\n\n**Arthur**: \u201cThis sucks, however, I will not let these flops define me! I will survive! \n\n*(cuts back to the mainstage)*\n\n\u201cNow,\u201d **Aries** says, \u201cplease go and vote for who you think should join **Arthur** in the lip-sync.\u201d \n\nBackstage, the **Lips** wait to cast their votes.\n\n\u201cFUCK THIS SHOW!\u201d **Arthur** screams, slamming his first onto the table. \n\n\u201cScreaming and crying won\u2019t fix anything!\u201d **IIV** says.\n\n**Arthur** stares into **IIV\u2019s** eyes.\n\n\u201cCan you fuck off?\u201d **Arthur** responds. \u201cYou\u2019re clearly the worst on the team!\u201d\n\n\u201cI\u2019M the worst?\u201d **IIV** says, shocked. \u201cYOU DIDN\u2019T REMEMBER ANY OF YOUR LINES! AND YOU WANT TO CALL *ME* THE WORST?\u201d\n\n**Gaydzag** and **Orb** look on from across the room. \n\n\u201cI\u0334I\u0336V\u0336 \u0335s\u0338e\u0334e\u0334m\u0334s\u0334 \u0335t\u0334o\u0336 \u0335b\u0336e\u0337 \u0335g\u0337e\u0338t\u0336t\u0337i\u0336n\u0337g\u0338 \u0335i\u0335n\u0338c\u0338r\u0335e\u0337a\u0338s\u0335i\u0337n\u0336g\u0338l\u0336y\u0338 \u0334c\u0337o\u0337m\u0336b\u0338a\u0334t\u0337i\u0335v\u0338e\u0336,\u201d **Orb** says. \u201cS\u0337h\u0336e\u0335'\u0338s\u0335 \u0336b\u0337e\u0334c\u0335o\u0334m\u0335i\u0335n\u0338g\u0338 \u0336t\u0336h\u0337e\u0334 \u0335c\u0337o\u0337m\u0338p\u0335l\u0337e\u0338t\u0334e\u0336 \u0336o\u0338p\u0337p\u0335o\u0334s\u0337i\u0338t\u0335e\u0335 \u0338o\u0336f\u0335 \u0337w\u0335h\u0334o\u0335 \u0337s\u0337h\u0334e\u0337 \u0336w\u0338a\u0335s\u0336 \u0336a\u0335t\u0335 \u0338t\u0334h\u0334e\u0334 \u0338b\u0337e\u0336g\u0334i\u0337n\u0337n\u0336i\u0336n\u0337g\u0334 \u0334o\u0337f\u0334 \u0338t\u0338h\u0334e\u0337 \u0338s\u0337e\u0335a\u0338s\u0338o\u0335n\u0334!\u201d \n\n\u201cI feel you,\u201d **Gaydzag** says, \u201cbut she\u2019s truly a help to the team!\u201d \n\n\u201cI\u0337s\u0336 \u0338s\u0337h\u0335e\u0338 \u0335t\u0337r\u0338u\u0338l\u0336y\u0335 \u0335h\u0335e\u0334l\u0335p\u0335i\u0336n\u0336g\u0335 \u0338u\u0338s\u0336 \u0336i\u0337f\u0338 \u0334s\u0334h\u0336e\u0335'\u0338s\u0334 \u0336b\u0336e\u0336i\u0336n\u0334g\u0335 \u0338f\u0338a\u0335k\u0334e\u0334?\u201d **Orb** retorts. \n\nBefore **Gaydzag** can respond, a PA calls on them to go and vote.\n\n*(cuts to* ***Arthur*** *in confessionals)*\n\n**Arthur**: \u201cYou\u2019re a bitch!\u201d \n\n*(cuts to* ***IIV*** *in confessionals)*\n\n**IIV**: \u201cI\u2019m only voting for you because of your runway!\u201d \n\n*(cuts to* ***Madame*** *in confessionals)*\n\n**Madame**: \u201cFlop, flop, flop!\u201d \n\n*(cuts to* ***Orb*** *in confessionals)*\n\n**Orb**: \u201cD\u0337o\u0338n\u0335'\u0338t\u0336 \u0335b\u0335e\u0336 \u0335f\u0338a\u0334k\u0335e\u0338!\u201d \n\n*(cuts to* ***Gaydzag*** *in confessionals)*\n\n**Gaydzag**: \u201cI don\u2019t know what to do, but I think this might be for the best.\u201d \n\n*(cuts back to the mainstage)*\n\nThe **Lips** walk back onto the mainstage. \n\n\u201cWelcome back, everyone!\u201d **Aries** says. \u201cIn my hands I hold a letter with the list of votes. The person with the most votes will be lip syncing against **Arthur** to see who stays and who goes. The person with the most votes...IS\u2026\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n...in a total of 3-2, **IIV**!\u201d\n\n**IIV** gasps as the rest of the team gags as well.\n\n\u201c**Arthur**, **IIV**, stay on the stage. Everyone else, congratulations, you\u2019ve lasted another week and may head to the back of the stage.\u201d\n\nThe three safe **Lips** head to the back of the stage as **Arthur** and **IIV** head to their respective sides of the stage.\n\n\u201c**Arthur**, **IIV**, this is your last chance to save yourselves and prove that you still belong in this competition. Good luck, and DON\u2019T\u2026\n\n\u2026FUCK\u2026 \n\n\u2026IT\u2026 \n\n\u2026UP!\u201d\n\n\u201cMisery Business\u201d by Paramore begins to play. **Arthur** begins dancing to the beat, while **IIV** begins playing the air guitar on her machete.\n\n*I'm in the business of misery, let's take it from the top*\n\n*She's got a body like an hourglass, it's ticking like a clock*\n\n*It's a matter of time before we all run out*\n\n*When I thought he was mine, she caught him by the mouth*\n\nAs the lyrics begin to play, **Arthur** and **IIV** begin hitting every word. Both feel incredibly betrayed by their teams, and both are putting their all into this. \n\n*Whoa, I never meant to brag*\n\n*But I got him where I want him now*\n\n*Whoa, it was never my intention to brag*\n\n*To steal it all away from you now*\n\nAs the chorus begins to play, **Arthur** dances his heart out to the lyrics, while **IIV** continues to hit all of the lyrics while playing air guitar on her machete, making her look like a true rock star.\n\n*I watched his wildest dreams come true*\n\n*And not one of them involving you*\n\n*Just watch my wildest dreams come true*\n\n*Not one of them involving*\n\nAs the bridge picks up, **Arthur** begins doing sexy contortion work on the floor, while **IIV** begins stripping herself from all of her clothes, crying, and looking straight at **Aries**, emoting every word. As the guitar solo plays, back competitors dance their hearts out. It\u2019s a fucking BATTLE and the judges and safe competitors begin cheering on both of them. \n\n*Whoa, I never meant to brag*\n\n*But I got him where I want him now*\n\n*Whoa, I never meant to brag*\n\n*But I got him where I want him now*\n\n*Whoa, it was never my intention to brag*\n\n*To steal it all away from you now*\n\nAs the breakdown and final chorus start up again, **Arthur** begins spinning like crazy, while **IIV** lives her Demi Lovato *Camp Rock* fantasy, using her machete as a microphone and doing the knee thing.\n\nAs the song comes to a close, both competitors are dancing their hearts out, and both end on the ground, with **Arthur** landing in a split and **IIV** collapsing onto the ground, out of breath and in tears. \n\n\u201cThank you, you two, for that amazing lip-sync! It was the closest one we\u2019ve had yet, so no matter what happens, just remember that y\u2019all did THAT! Anyways, I think I have made my decision. The person who is staying in this competition...IS...\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n...**IIV**!\u201d \n\n**IIV** collapses onto the ground, cries for a moment, then gets back up.\n\n\u201cCongratulations, my dear, you may join the others at the back of the stage!\u201d \n\n**IIV** runs to the back of the stage.\n\n\u201c**Arthur**, you are truly a king among kings, and I know that day you will rule the world! Now, sashay away.\u201d\n\n**Arthur** walks to the back of the stage. \n\n\u201cWell, at least I look this good!\u201d **Arthur** says, making **Aries** laugh and proceeding to walk backstage. \n\n*(cuts to* ***Arthur*** *in confessionals)*\n\n**Arthur**: \u201cWhile I do understand why I went home, I think it\u2019s the fact that it was **IIV** who sent me home that gets me more than anything. I hope she suffers for the rest of the competition!\u201d \n\n*(cuts back to the workroom)*\n\nAs **Arthur** begins de-dragging in the workroom and packing up her things, the TV turns on and begins to play a video message from **Aries**.\n\n\u201cAt Total Aries Drag Race, there\u2019s a game within a game *within a game*,\u201d **Aries** says. \u201cWanna play?\u201d \n\nBefore **Arthur** can answer, the camera cuts back to **Aries** back on the mainstage. \n\n\u201cWill **Arthur** participate in this game within a game within a game? What will happen to the **Lips** without him? *What new exciting twists will come next week?* Find out next time on\n\n**TOTAL**\u2026\n\n**ARIES**\u2026 \n\n**DRAG RACE**!\u201d \n\n[Track Record as of Episode 6](https://preview.redd.it/2ih1841qfdv71.png?width=748&amp;format=png&amp;auto=webp&amp;s=173cca487fdd1b74ee8818fd6d394cf10c93f10f)",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "DeePressionsDragRace",
+            "subreddit_id": "t5_3z15nq",
+            "subreddit_subscribers": 55,
+            "subreddit_type": "public",
+            "thumbnail": "https://b.thumbs.redditmedia.com/nyfDx1LH5aqTwAhhRcuPkREXC8nS7Oo5flfM5DfY14o.jpg",
+            "thumbnail_height": 58,
+            "thumbnail_width": 140,
+            "title": "Total Aries Drag Race | Episode 6 - \"Midsommaries\"",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://www.reddit.com/r/DeePressionsDragRace/comments/qep61l/total_aries_drag_race_episode_6_midsommaries/"
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "AnnaGorlos",
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_text": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_8v3kxwfm",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1635069734,
+            "domain": "youtube.com",
+            "full_link": "https://www.reddit.com/r/Annaxo/comments/qep78f/with_the_3_different_sizes_of_embroidery_punch/",
+            "gildings": {},
+            "id": "qep78f",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_richtext": [],
+            "link_flair_text_color": "dark",
+            "link_flair_type": "text",
+            "locked": false,
+            "media": {
+                "oembed": {
+                    "author_name": "Gary Smith",
+                    "author_url": "https://www.youtube.com/channel/UC7W1FBaFFe98R9oRI9VmV5Q",
+                    "height": 200,
+                    "html": "&lt;iframe width=\"267\" height=\"200\" src=\"https://www.youtube.com/embed/eMVgZlXzUik?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+                    "provider_name": "YouTube",
+                    "provider_url": "https://www.youtube.com/",
+                    "thumbnail_height": 360,
+                    "thumbnail_url": "https://i.ytimg.com/vi/eMVgZlXzUik/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "title": "Magic Embroidery Pen",
+                    "type": "video",
+                    "version": "1.0",
+                    "width": 267
+                },
+                "type": "youtube.com"
+            },
+            "media_embed": {
+                "content": "&lt;iframe width=\"267\" height=\"200\" src=\"https://www.youtube.com/embed/eMVgZlXzUik?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+                "height": 200,
+                "scrolling": false,
+                "width": 267
+            },
+            "media_only": false,
+            "no_follow": true,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "permalink": "/r/Annaxo/comments/qep78f/with_the_3_different_sizes_of_embroidery_punch/",
+            "pinned": false,
+            "post_hint": "rich:video",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "uMidvOE5Cc6CedmeLM1zAEOb6pxs59BY2jYLlHspWWM",
+                        "resolutions": [
+                            {
+                                "height": 81,
+                                "url": "https://external-preview.redd.it/gFIx4PD8ETGXxQo4UoYceBbqkaN2KXoMQkKi3yRFOe8.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=3f1e0d852bc160690ba0e7e142c904ca6d7607c0",
+                                "width": 108
+                            },
+                            {
+                                "height": 162,
+                                "url": "https://external-preview.redd.it/gFIx4PD8ETGXxQo4UoYceBbqkaN2KXoMQkKi3yRFOe8.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=df3a59485fd67ece7cf4abd94fa4ab327da07b1b",
+                                "width": 216
+                            },
+                            {
+                                "height": 240,
+                                "url": "https://external-preview.redd.it/gFIx4PD8ETGXxQo4UoYceBbqkaN2KXoMQkKi3yRFOe8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e84ee897d616a51be035d8c18069696ca5192823",
+                                "width": 320
+                            }
+                        ],
+                        "source": {
+                            "height": 360,
+                            "url": "https://external-preview.redd.it/gFIx4PD8ETGXxQo4UoYceBbqkaN2KXoMQkKi3yRFOe8.jpg?auto=webp&amp;s=4165210ebfa7f31d7983103150ccbda6c7b5a2ab",
+                            "width": 480
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "retrieved_on": 1635069744,
+            "score": 1,
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Gary Smith",
+                    "author_url": "https://www.youtube.com/channel/UC7W1FBaFFe98R9oRI9VmV5Q",
+                    "height": 200,
+                    "html": "&lt;iframe width=\"267\" height=\"200\" src=\"https://www.youtube.com/embed/eMVgZlXzUik?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+                    "provider_name": "YouTube",
+                    "provider_url": "https://www.youtube.com/",
+                    "thumbnail_height": 360,
+                    "thumbnail_url": "https://i.ytimg.com/vi/eMVgZlXzUik/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "title": "Magic Embroidery Pen",
+                    "type": "video",
+                    "version": "1.0",
+                    "width": 267
+                },
+                "type": "youtube.com"
+            },
+            "secure_media_embed": {
+                "content": "&lt;iframe width=\"267\" height=\"200\" src=\"https://www.youtube.com/embed/eMVgZlXzUik?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+                "height": 200,
+                "media_domain_url": "https://www.redditmedia.com/mediaembed/qep78f",
+                "scrolling": false,
+                "width": 267
+            },
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "Annaxo",
+            "subreddit_id": "t5_3jxyi4",
+            "subreddit_subscribers": 16,
+            "subreddit_type": "restricted",
+            "thumbnail": "https://b.thumbs.redditmedia.com/euplKMykp2EtZ5li-NEEhUdOxlOwx0xoQw7c_8sr_VE.jpg",
+            "thumbnail_height": 105,
+            "thumbnail_width": 140,
+            "title": "With the 3 different sizes of embroidery punch needle, the small/medium/ large, you can do many pretty and delicate artworks, such as backstitch, loop, satin stitch and more! Now you can transform any textile item with patterns, writing, flowers patches or more!",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://youtube.com/watch?v=eMVgZlXzUik&amp;feature=share",
+            "url_overridden_by_dest": "https://youtube.com/watch?v=eMVgZlXzUik&amp;feature=share"
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "locogambla",
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_text": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_efhidege",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1635069924,
+            "domain": "self.BettingPicks",
+            "full_link": "https://www.reddit.com/r/BettingPicks/comments/qep8u9/one_3_teamers/",
+            "gildings": {},
+            "id": "qep8u9",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#ea0027",
+            "link_flair_richtext": [],
+            "link_flair_template_id": "bddbc922-0f41-11ec-8752-d25adff3824a",
+            "link_flair_text": "NFL",
+            "link_flair_text_color": "light",
+            "link_flair_type": "text",
+            "locked": false,
+            "media_only": false,
+            "no_follow": true,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "some_ads",
+            "permalink": "/r/BettingPicks/comments/qep8u9/one_3_teamers/",
+            "pinned": false,
+            "pwls": 7,
+            "retrieved_on": 1635069935,
+            "score": 1,
+            "selftext": "\n\n\u00a0\n\nFalcons ML\u00a0- Let's keep it simple, the team with a sound QB should prevail here. The winning fever is spreading like covid from the Braves.\n\nChiefs Titans Over 57.5 - It's not a shootout, but either team will their way just enough; I think the total could hit a 70 mark, I can feel it.\n\nColts 44 +4 - So who gonna be the winner?, the one who bring some fake flowers hopping one leg or road dog with a 44 mag.\n\n$757 on odd +544 ..........Let's see what\u00a0happens.\n\n\u00a0\n\nBOL to everyone\u00a0\n\n\u00a0",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "BettingPicks",
+            "subreddit_id": "t5_3c87z",
+            "subreddit_subscribers": 2519,
+            "subreddit_type": "public",
+            "suggested_sort": "top",
+            "thumbnail": "self",
+            "title": "One 3 teamers",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://www.reddit.com/r/BettingPicks/comments/qep8u9/one_3_teamers/",
+            "whitelist_status": "some_ads",
+            "wls": 7
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "Morgan-992",
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_text": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_5zu85htf",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1635069972,
+            "domain": "youtube.com",
+            "full_link": "https://www.reddit.com/r/CakeDecoratingIdeas/comments/qep98d/cake_decorating_tools_largestandard_numbered/",
+            "gildings": {},
+            "id": "qep98d",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_richtext": [],
+            "link_flair_text_color": "dark",
+            "link_flair_type": "text",
+            "locked": false,
+            "media": {
+                "oembed": {
+                    "author_name": "Garen Kallen",
+                    "author_url": "https://www.youtube.com/channel/UCWmFi3cjN-Y2bWIl9RZLYOQ",
+                    "height": 200,
+                    "html": "&lt;iframe width=\"267\" height=\"200\" src=\"https://www.youtube.com/embed/CY8_gwdcOtQ?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+                    "provider_name": "YouTube",
+                    "provider_url": "https://www.youtube.com/",
+                    "thumbnail_height": 360,
+                    "thumbnail_url": "https://i.ytimg.com/vi/CY8_gwdcOtQ/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "title": "cake decorating ideas \ud83c\udf82\ud83c\udf88\ud83c\udf82\ud83e\udd73\ud83c\udf89",
+                    "type": "video",
+                    "version": "1.0",
+                    "width": 267
+                },
+                "type": "youtube.com"
+            },
+            "media_embed": {
+                "content": "&lt;iframe width=\"267\" height=\"200\" src=\"https://www.youtube.com/embed/CY8_gwdcOtQ?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+                "height": 200,
+                "scrolling": false,
+                "width": 267
+            },
+            "media_only": false,
+            "no_follow": true,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "permalink": "/r/CakeDecoratingIdeas/comments/qep98d/cake_decorating_tools_largestandard_numbered/",
+            "pinned": false,
+            "post_hint": "rich:video",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "er2LMWHz9c22_9UMZP9MmrNgbDuIDohospHYqUHOCm0",
+                        "resolutions": [
+                            {
+                                "height": 81,
+                                "url": "https://external-preview.redd.it/VQDZ3z4sRiBfUBpmJH1EL4bsVbHfdedbR6lOE82OeXo.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=cd80400a18382093c1addae6c665f5e1ed5be324",
+                                "width": 108
+                            },
+                            {
+                                "height": 162,
+                                "url": "https://external-preview.redd.it/VQDZ3z4sRiBfUBpmJH1EL4bsVbHfdedbR6lOE82OeXo.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=1854457aec427b1c5d5f249f89527aec53522b6f",
+                                "width": 216
+                            },
+                            {
+                                "height": 240,
+                                "url": "https://external-preview.redd.it/VQDZ3z4sRiBfUBpmJH1EL4bsVbHfdedbR6lOE82OeXo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f447aae531e7b0b2e1fb350450b3504618ff1fe3",
+                                "width": 320
+                            }
+                        ],
+                        "source": {
+                            "height": 360,
+                            "url": "https://external-preview.redd.it/VQDZ3z4sRiBfUBpmJH1EL4bsVbHfdedbR6lOE82OeXo.jpg?auto=webp&amp;s=cefb17b37f76f748ba322a37a07ad7c67d62d97f",
+                            "width": 480
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "retrieved_on": 1635069984,
+            "score": 1,
+            "secure_media": {
+                "oembed": {
+                    "author_name": "Garen Kallen",
+                    "author_url": "https://www.youtube.com/channel/UCWmFi3cjN-Y2bWIl9RZLYOQ",
+                    "height": 200,
+                    "html": "&lt;iframe width=\"267\" height=\"200\" src=\"https://www.youtube.com/embed/CY8_gwdcOtQ?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+                    "provider_name": "YouTube",
+                    "provider_url": "https://www.youtube.com/",
+                    "thumbnail_height": 360,
+                    "thumbnail_url": "https://i.ytimg.com/vi/CY8_gwdcOtQ/hqdefault.jpg",
+                    "thumbnail_width": 480,
+                    "title": "cake decorating ideas \ud83c\udf82\ud83c\udf88\ud83c\udf82\ud83e\udd73\ud83c\udf89",
+                    "type": "video",
+                    "version": "1.0",
+                    "width": 267
+                },
+                "type": "youtube.com"
+            },
+            "secure_media_embed": {
+                "content": "&lt;iframe width=\"267\" height=\"200\" src=\"https://www.youtube.com/embed/CY8_gwdcOtQ?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+                "height": 200,
+                "media_domain_url": "https://www.redditmedia.com/mediaembed/qep98d",
+                "scrolling": false,
+                "width": 267
+            },
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "CakeDecoratingIdeas",
+            "subreddit_id": "t5_55eunb",
+            "subreddit_subscribers": 6,
+            "subreddit_type": "public",
+            "thumbnail": "https://a.thumbs.redditmedia.com/-SMrrV2GZGhArngHEpD2s-Y1h_A02e_bbx0V2fuL4O0.jpg",
+            "thumbnail_height": 105,
+            "thumbnail_width": 140,
+            "title": "CAKE DECORATING TOOLS- Large/Standard numbered different pattern cake tips, coupler, reusable piping bags, flower nail, and decorating pen, which you can create all types of beautiful buttercream flowers, multi patterns on cake, cupcakes, pie, and biscuit.",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://youtube.com/watch?v=CY8_gwdcOtQ&amp;feature=share",
+            "url_overridden_by_dest": "https://youtube.com/watch?v=CY8_gwdcOtQ&amp;feature=share"
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "gold_beans",
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_text": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_fkco93ns",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1635070125,
+            "domain": "self.orchids",
+            "full_link": "https://www.reddit.com/r/orchids/comments/qepagp/orchid_research_project_job_listing_short_term/",
+            "gildings": {},
+            "id": "qepagp",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_richtext": [],
+            "link_flair_text_color": "dark",
+            "link_flair_type": "text",
+            "locked": false,
+            "media_only": false,
+            "no_follow": true,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/orchids/comments/qepagp/orchid_research_project_job_listing_short_term/",
+            "pinned": false,
+            "post_hint": "self",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "rL3janB7FbZMX0QfLYNKtgcPsfb1LqsOoS2SF9KssJk",
+                        "resolutions": [
+                            {
+                                "height": 56,
+                                "url": "https://external-preview.redd.it/A2fWfXas93ZLPRvaUa7FmiO4LvmQB4jbisjflMh57eM.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=563546f18999d55ab14262accb0e137e7a7687be",
+                                "width": 108
+                            },
+                            {
+                                "height": 113,
+                                "url": "https://external-preview.redd.it/A2fWfXas93ZLPRvaUa7FmiO4LvmQB4jbisjflMh57eM.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=019e6fe3e7a240066cff0eb0b6465b435f98822a",
+                                "width": 216
+                            },
+                            {
+                                "height": 168,
+                                "url": "https://external-preview.redd.it/A2fWfXas93ZLPRvaUa7FmiO4LvmQB4jbisjflMh57eM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f777cb9b6424ca2cb47c7b1be5427fd43b3f048a",
+                                "width": 320
+                            },
+                            {
+                                "height": 336,
+                                "url": "https://external-preview.redd.it/A2fWfXas93ZLPRvaUa7FmiO4LvmQB4jbisjflMh57eM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae4c8112888da4b7e380704e530638e871bbd045",
+                                "width": 640
+                            },
+                            {
+                                "height": 504,
+                                "url": "https://external-preview.redd.it/A2fWfXas93ZLPRvaUa7FmiO4LvmQB4jbisjflMh57eM.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=635f7b96d4daf66d2fa0b0e996f5bdb2f22bda2f",
+                                "width": 960
+                            },
+                            {
+                                "height": 567,
+                                "url": "https://external-preview.redd.it/A2fWfXas93ZLPRvaUa7FmiO4LvmQB4jbisjflMh57eM.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=749d7eb2efa7ebd01d204b06de3a9915aa906e2a",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 631,
+                            "url": "https://external-preview.redd.it/A2fWfXas93ZLPRvaUa7FmiO4LvmQB4jbisjflMh57eM.jpg?auto=webp&amp;s=2126e58fe276090d3ad76c765ec27bc9fb6bcc02",
+                            "width": 1201
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "retrieved_on": 1635070136,
+            "score": 1,
+            "selftext": "Hello everyone!\n\nI am conducting research as a non-professional orchid fan, to help me succeed in a small project I am part of with a group of study friends, all about orchids.   \n\n\nAs an amateur grower myself, I chose orchids as the topic of my study project because I felt it was a subject I could really enjoy (and I am loving it) but the amount of rich information out there is so deep that now quite honestly, it's becoming a little overwhelming! So here I am. Attempting to create some order and seek out help.   \n\n\nI have been conducting my own personal research in my spare time, but I felt it would be better to attempt to recruit some additional support, given that the subject matter is so vast. I would be na\u00efve to assume that I could ever learn all there is to know about orchids, let alone on my own, which is obviously why fantastic forums such as these exist with a helpful community of like minded people willing to share their thoughts and knowledge with others.  \n\n\nNot sure if this is so interesting to anyone here as it's really only a basic and temporary job, but it might be great for someone who has a shared passion for orchids (as we all do) and is looking for a little extra work. Especially as there are plenty of people who are struggling due to the pandemic.   \n\n\nThe perfect candidate would be someone who can research with an unbias view on favorites (difficult as it is!) and is very excited about compiling lists based on a topic that they genuinely love and have a passion for; orchids. A little understanding of how to easily navigate the internet is a must and any additional skills such as marketing or social media understanding will probably be greatly advantageous.   \n\n\nThe job is paying between $5-$15, based on your research gathering experience I suppose, and less about your overall knowledge of orchids as I would very much want to avoid insulting the huge number of academics here who have a much higher understanding of this topic. Although if you are an academic on any of the topics I have listed it would be wonderfully amazing if you were able to contribute to those lists yourselves.   \n\n\nIt's mostly aimed to be fun job (open to potentially more than 1 candidate) with a generalist and hobbyist focused view and is definitely not intended to undermine those clever people who dedicate their lives to these fabulous flowers and all the amazing research and biology that goes on behind it all.   \n\n\nAnyway, I thought I would share the job listing here for anyone who was interested: [https://www.upwork.com/jobs/\\~01fe5353d1593a79b8](https://www.upwork.com/jobs/~01fe5353d1593a79b8)  \n\n\nBut if you would like to offer freely any opinions and knowledge yourself to any of the specific topics I am researching, please feel free to view and contribute with as little or as many responses to this Google form here: [https://forms.gle/urMJTTcSshXLZAaN7](https://forms.gle/urMJTTcSshXLZAaN7)  \n\n\nThank you all so much in advance!   \n\n\nG.B",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "orchids",
+            "subreddit_id": "t5_2rib3",
+            "subreddit_subscribers": 91236,
+            "subreddit_type": "public",
+            "thumbnail": "self",
+            "title": "Orchid Research Project - Job Listing (Short Term Paid Work) Suitable for Hobbyist or Expert",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://www.reddit.com/r/orchids/comments/qepagp/orchid_research_project_job_listing_short_term/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "Smolesworthy",
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_text": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_7mj52ig7",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1635070243,
+            "domain": "self.Extraordinary_Tales",
+            "full_link": "https://www.reddit.com/r/Extraordinary_Tales/comments/qepbd3/sitting_in_the_river/",
+            "gildings": {},
+            "id": "qepbd3",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#ffb000",
+            "link_flair_richtext": [],
+            "link_flair_template_id": "e30d99b2-d41a-11eb-9240-0edefa3f69e3",
+            "link_flair_text": "Vignette",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "text",
+            "locked": false,
+            "media_only": false,
+            "no_follow": true,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "permalink": "/r/Extraordinary_Tales/comments/qepbd3/sitting_in_the_river/",
+            "pinned": false,
+            "retrieved_on": 1635070254,
+            "score": 1,
+            "selftext": "I will have to sit still, like a guru, he thinks. I will have to ignore cramps and the cold. I have to breathe very slowly and very quietly, so that my breath does not even stir the water flowing past my chin. I have to ignore whatever slithers past me in the mud. I cannot fall asleep. I am bound to see frightening things. What if I see lights in the sky? What if I see shadows sprinting through the tops of the trees? What if I see wolves walk on two feet and crouch like men to drink from the stream? What if there is a storm? What if it is clear and the sky brimming so full of stars that the light overflows down onto the earth and transforms into luminescent white flowers along the bank, which sparkle and disperse without a trace the moment the planet passes the deepest meridian of night and begins turning back toward the sun? What if I see my father, just inside the trees, humming softly to himself, content and at peace until he notices me sitting in the mud?\n\nPaul Hardy. Tinkers.",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "Extraordinary_Tales",
+            "subreddit_id": "t5_42uumt",
+            "subreddit_subscribers": 557,
+            "subreddit_type": "public",
+            "thumbnail": "self",
+            "title": "Sitting in the River",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://www.reddit.com/r/Extraordinary_Tales/comments/qepbd3/sitting_in_the_river/"
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "adinaa0",
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_text": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_fthhm0wn",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1635070411,
+            "domain": "i.redd.it",
+            "full_link": "https://www.reddit.com/r/u_adinaa0/comments/qepcmx/pluck_sum_flowers/",
+            "gildings": {},
+            "id": "qepcmx",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": true,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_richtext": [],
+            "link_flair_text_color": "dark",
+            "link_flair_type": "text",
+            "locked": false,
+            "media_only": false,
+            "no_follow": true,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "permalink": "/r/u_adinaa0/comments/qepcmx/pluck_sum_flowers/",
+            "pinned": false,
+            "post_hint": "image",
+            "preview": {
+                "enabled": true,
+                "images": [
+                    {
+                        "id": "LPVKqam758c1xQMexDNZykndndATIFlMGBTGYXbsLYU",
+                        "resolutions": [
+                            {
+                                "height": 144,
+                                "url": "https://preview.redd.it/39myvz18idv71.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=a5c876ac0e28f21ef68ac3cbccb7808ad63aaf4b",
+                                "width": 108
+                            },
+                            {
+                                "height": 288,
+                                "url": "https://preview.redd.it/39myvz18idv71.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=29566bedb712cc7301213a184051627c9452803e",
+                                "width": 216
+                            },
+                            {
+                                "height": 426,
+                                "url": "https://preview.redd.it/39myvz18idv71.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2608061693c47357d43aef478399e140a9d370af",
+                                "width": 320
+                            },
+                            {
+                                "height": 853,
+                                "url": "https://preview.redd.it/39myvz18idv71.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0ed52a74f03fa675caf626b0859077326db36cf3",
+                                "width": 640
+                            },
+                            {
+                                "height": 1280,
+                                "url": "https://preview.redd.it/39myvz18idv71.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=07037b8cb4930247e7ad0b8250c7c18a1b087e40",
+                                "width": 960
+                            },
+                            {
+                                "height": 1440,
+                                "url": "https://preview.redd.it/39myvz18idv71.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=44d493820f3c5510c61ee8513341658781004a79",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 4096,
+                            "url": "https://preview.redd.it/39myvz18idv71.jpg?auto=webp&amp;s=26d2163074ecad935247d995f5a2906287151de9",
+                            "width": 3072
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "retrieved_on": 1635070422,
+            "score": 1,
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "u_adinaa0",
+            "subreddit_id": "t5_58dchg",
+            "subreddit_subscribers": 0,
+            "subreddit_type": "user",
+            "suggested_sort": "qa",
+            "thumbnail": "https://a.thumbs.redditmedia.com/e2SZo3Z5zz0odo5tp6XDQC029p8k4DQbVWN9exLSk-0.jpg",
+            "thumbnail_height": 140,
+            "thumbnail_width": 140,
+            "title": "Pluck sum flowers.",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://i.redd.it/39myvz18idv71.jpg",
+            "url_overridden_by_dest": "https://i.redd.it/39myvz18idv71.jpg"
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "Ben17298",
+            "author_flair_css_class": "Shield1 ",
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "The Lorax"
+                }
+            ],
+            "author_flair_template_id": "91d0a7dc-5b66-11e2-933b-12313d187e68",
+            "author_flair_text": "The Lorax",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_2qrai0tz",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1635070581,
+            "domain": "self.ClashOfClans",
+            "full_link": "https://www.reddit.com/r/ClashOfClans/comments/qepdwq/friendly_flower/",
+            "gildings": {},
+            "id": "qepdwq",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#d78ff2",
+            "link_flair_css_class": "ask",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Questions"
+                }
+            ],
+            "link_flair_template_id": "f55d47d0-486a-11e5-851d-0e49b4de90e1",
+            "link_flair_text": "Questions",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media_only": false,
+            "no_follow": true,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "no_ads",
+            "permalink": "/r/ClashOfClans/comments/qepdwq/friendly_flower/",
+            "pinned": false,
+            "pwls": 0,
+            "retrieved_on": 1635070593,
+            "score": 1,
+            "selftext": "Has anyone gotten multiple friendly flowers yet? It\u2019s been 4-5 days and I\u2019ve only gotten 1. Seems kinda weird",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "ClashOfClans",
+            "subreddit_id": "t5_2usfk",
+            "subreddit_subscribers": 380838,
+            "subreddit_type": "public",
+            "thumbnail": "self",
+            "title": "Friendly Flower.",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://www.reddit.com/r/ClashOfClans/comments/qepdwq/friendly_flower/",
+            "whitelist_status": "no_ads",
+            "wls": 0
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "Fhs3854",
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_text": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_ci0hrlx",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1635071232,
+            "domain": "self.reddeadredemption2",
+            "full_link": "https://www.reddit.com/r/reddeadredemption2/comments/qepive/what_if_there_was_a_minimum_honor_ending_and_a/",
+            "gildings": {},
+            "id": "qepive",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_richtext": [],
+            "link_flair_text_color": "dark",
+            "link_flair_type": "text",
+            "locked": false,
+            "media_only": false,
+            "no_follow": true,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/reddeadredemption2/comments/qepive/what_if_there_was_a_minimum_honor_ending_and_a/",
+            "pinned": false,
+            "pwls": 6,
+            "retrieved_on": 1635071242,
+            "score": 1,
+            "selftext": "I just thought of a really cool idea if the game had a fully dishonorable ending and a fully honorable ending it would probably be like this\n\n\nIn the minimum honor ending, Micah overpowers Arthur in the knife fight and stabs him right in the chest similar to the original low honor ending. Micah with a surprised expression says  \u201cWoah, I can\u2019t believe I actually did it\u201dhe chuckles and says \u201cHow does it feel black lung?\u201d Arthur choking on his own blood barely able to speak \u201cI\u2019m taking you to with me you bastard\u201d Arthur tries to spit in Micahs mouth but doesn\u2019t have the strength to do it and is too weak, Micah takes the knife out and stabs him over and over again and then stops when he sees Dutch walk in and instead of feeling bad about Arthur he tells Micah to finish him off. Arthur rolls over and tries to say to Dutch that Micah is the rat but he\u2019s just mumbling and coughing out blood on the ground. Micah turns to Dutch and says \u201cLet\u2019s go Dutch, let\u2019s get the money and let this son of a bitch rot.\u201d Dutch looks at Micah with a disgusted look thinking to himself that these are the type of men that he associates with, truly despicable, wicked, and evil people and walks away upset. Micah implores Dutch to come back but Dutch still walks away\u201d Micah looks at Arthur who is barely even alive and takes out a Molotov and says \u201cI hope you enjoy hell cowpoke\u201d. He lights it up and throws it at Arthur, Arthur screams in agony while Micah maniacally laughs killing him within seconds. Micah walks away with the money as the camera pans in on Arthur\u2019s burnt corpse, the final animal vision is a decomposed wolf being eaten by vultures and rats in a cave. Arthur in this ending gets no grave.\n\nIn the maximum honor ending Dutch steps on the gun Arthur is about to grab to shoot Micah with and says \u201cStop this, please stop this you fools\u201d with pain in his voice. \u201cGet outta here Dutch\u201d Arthur says with a whimper. After that the dialogue plays the same like in the normal ending(too well written to change imo) but after Arthur speaks his heart out to Dutch, Dutch breaks down and starts crying on the spot and holds his dying son in his arms. Micah looks at both of them with a guilty and slightly sympathetic look on his face, Dutch turns to Micah with an angry look on his face and says \u201cGoddamn you Micah!\u201d As he begins to cry more knowing that his closest friends he had (Arthur and Hosea) who were truly pure and caring people are now gone and realizes how he himself has fallen and has turned into a violent and greedy man and realizes Micahs schemes. Micah walks away in shame and Arthur passes away in Dutches arms as the sun rises. The final animal vision is a white deer looking at a cloudy sky with eagles flying above representing heaven and the angels. Arthur\u2019s grave will be very decorated with flowers and his hat on top of the cross and a picture of Arthur at the bottom.",
+            "send_replies": true,
+            "spoiler": true,
+            "stickied": false,
+            "subreddit": "reddeadredemption2",
+            "subreddit_id": "t5_2x2n9",
+            "subreddit_subscribers": 356701,
+            "subreddit_type": "public",
+            "thumbnail": "spoiler",
+            "title": "What if there was a minimum honor ending and a maximum honor ending (Major spoilers)",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://www.reddit.com/r/reddeadredemption2/comments/qepive/what_if_there_was_a_minimum_honor_ending_and_a/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "Deep_Refrigerator_79",
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_text": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_cumgnvnb",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1635071304,
+            "domain": "self.ftm",
+            "full_link": "https://www.reddit.com/r/ftm/comments/qepjfb/dysphoria_over_the_way_i_decorate_my_apartment/",
+            "gildings": {},
+            "id": "qepjfb",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#663026",
+            "link_flair_css_class": "disc",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Discussion"
+                }
+            ],
+            "link_flair_template_id": "b7b80604-1a68-11e8-862d-0eb133155a84",
+            "link_flair_text": "Discussion",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media_only": false,
+            "no_follow": true,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "no_ads",
+            "permalink": "/r/ftm/comments/qepjfb/dysphoria_over_the_way_i_decorate_my_apartment/",
+            "pinned": false,
+            "pwls": 0,
+            "retrieved_on": 1635071315,
+            "score": 1,
+            "selftext": "I get dysphoric over the stupidest shit. I'm still pre-transition and unsure if I can ever transition, but whatever, I still post here. \n\nMy brain is trying to convince me that if I truly wanted to be a man, I wouldn't decorate my house like this lmao it's so stupid. I try to make my apartment into a really chill and relaxing space so it's like my safe space in this world. I have lots of plants and fake plants/flowers and dried flowers and stuff. I just really like nature but I live in a city so this is my little indoor jungle. I also have some posters with tarot cards on them (I don't believe in that stuff but I like the vibe) and a poster with like a cartoon sloth hanging from a tree and another one with some koi fish. My brain is telling me that a real man wouldn't have a house full of plants and flowers and those kinda posters. I feel like someone who walks into my house immediately can tell that it was decorated by a \"woman\" (keep in mind im closeted and pre-transition) so I feel so fake lmao. \n\nI also have a pink plastic box in my bathroom where I keep all the little objects that I can't leave lying around (nail clippers, tweezers, old makeup I've never used), I got that box from my parents for my birthday when I was super young and it's been around forever so I don't wanna get rid of it, but it makes me feel like shit about myself because it's pink and girly. In general, I just have stuff lying around from my childhood that is more feminine, and I don't wanna get rid of it because it's been a part of my life for so long. \n\nThis is so dumb, I know. But I'm also the kind of idiot who gets dysphoric over umbrellas and scarves, so maybe it's just me :P",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "ftm",
+            "subreddit_id": "t5_2t9mw",
+            "subreddit_subscribers": 127397,
+            "subreddit_type": "public",
+            "thumbnail": "self",
+            "title": "Dysphoria over the way I decorate my apartment lmao",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://www.reddit.com/r/ftm/comments/qepjfb/dysphoria_over_the_way_i_decorate_my_apartment/",
+            "whitelist_status": "no_ads",
+            "wls": 0
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "shanamoe",
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_text": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_jk53gds",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1635071425,
+            "domain": "reddit.com",
+            "full_link": "https://www.reddit.com/r/cakedecorating/comments/qepkec/my_first_time_making_sugar_flowers_and_using/",
+            "gallery_data": {
+                "items": [
+                    {
+                        "id": 80898439,
+                        "media_id": "2m3n219aldv71"
+                    },
+                    {
+                        "id": 80898440,
+                        "media_id": "ie6tvhgaldv71"
+                    },
+                    {
+                        "id": 80898441,
+                        "media_id": "d6e7iqjaldv71"
+                    },
+                    {
+                        "id": 80898442,
+                        "media_id": "7724kdraldv71"
+                    },
+                    {
+                        "id": 80898443,
+                        "media_id": "by0denvaldv71"
+                    }
+                ]
+            },
+            "gildings": {},
+            "id": "qepkec",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_gallery": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#ff4500",
+            "link_flair_richtext": [],
+            "link_flair_template_id": "463f04aa-4518-11ea-94f2-0e7567c87c49",
+            "link_flair_text": "Image",
+            "link_flair_text_color": "light",
+            "link_flair_type": "text",
+            "locked": false,
+            "media_metadata": {
+                "2m3n219aldv71": {
+                    "e": "Image",
+                    "id": "2m3n219aldv71",
+                    "m": "image/jpg",
+                    "p": [
+                        {
+                            "u": "https://preview.redd.it/2m3n219aldv71.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ab337be60337994d6bcde5ce2661eac8f8d56f02",
+                            "x": 108,
+                            "y": 192
+                        },
+                        {
+                            "u": "https://preview.redd.it/2m3n219aldv71.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=adcdb1239dcbdad4b2f8a44bf2866b50610ecc9b",
+                            "x": 216,
+                            "y": 384
+                        },
+                        {
+                            "u": "https://preview.redd.it/2m3n219aldv71.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=036a74ee00a32d1aa14bcc5022a01740a0cd200e",
+                            "x": 320,
+                            "y": 568
+                        },
+                        {
+                            "u": "https://preview.redd.it/2m3n219aldv71.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7385a21ca2dc2321b39e256fd279bf71dc39349c",
+                            "x": 640,
+                            "y": 1137
+                        },
+                        {
+                            "u": "https://preview.redd.it/2m3n219aldv71.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=be3c25d3dec4e633b350c55b545cd0c605d9bca4",
+                            "x": 960,
+                            "y": 1706
+                        },
+                        {
+                            "u": "https://preview.redd.it/2m3n219aldv71.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=c290387e40f011a48b4cc2e7878029053882494c",
+                            "x": 1080,
+                            "y": 1920
+                        }
+                    ],
+                    "s": {
+                        "u": "https://preview.redd.it/2m3n219aldv71.jpg?width=2268&amp;format=pjpg&amp;auto=webp&amp;s=89c69e2607ddcdfd053ce0ba28698a8f2bb9812f",
+                        "x": 2268,
+                        "y": 4032
+                    },
+                    "status": "valid"
+                },
+                "7724kdraldv71": {
+                    "e": "Image",
+                    "id": "7724kdraldv71",
+                    "m": "image/jpg",
+                    "p": [
+                        {
+                            "u": "https://preview.redd.it/7724kdraldv71.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=369e9a3b01f99db1488c1f16761a20ee07dee124",
+                            "x": 108,
+                            "y": 192
+                        },
+                        {
+                            "u": "https://preview.redd.it/7724kdraldv71.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=b9d3f7e1b32d76597508f15b4f692585a89e3b0c",
+                            "x": 216,
+                            "y": 384
+                        },
+                        {
+                            "u": "https://preview.redd.it/7724kdraldv71.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=56aa6a7b3e977b3b3c44f89a52acc73c3bb94ca0",
+                            "x": 320,
+                            "y": 568
+                        },
+                        {
+                            "u": "https://preview.redd.it/7724kdraldv71.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=54950f765ed88bb27bcf1d5acdd503055c3ce6d8",
+                            "x": 640,
+                            "y": 1137
+                        },
+                        {
+                            "u": "https://preview.redd.it/7724kdraldv71.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=87464243836d444157c4b50dbf3c543792e3f46b",
+                            "x": 960,
+                            "y": 1706
+                        },
+                        {
+                            "u": "https://preview.redd.it/7724kdraldv71.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=08b10d5bf6844f92931bebafe4e27561c7a9be1b",
+                            "x": 1080,
+                            "y": 1920
+                        }
+                    ],
+                    "s": {
+                        "u": "https://preview.redd.it/7724kdraldv71.jpg?width=2268&amp;format=pjpg&amp;auto=webp&amp;s=7683b99529e42699a8ce9e0fcf60677d3814806d",
+                        "x": 2268,
+                        "y": 4032
+                    },
+                    "status": "valid"
+                },
+                "by0denvaldv71": {
+                    "e": "Image",
+                    "id": "by0denvaldv71",
+                    "m": "image/jpg",
+                    "p": [
+                        {
+                            "u": "https://preview.redd.it/by0denvaldv71.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=84c05d4527b1fa8ff05091d707ffa9485c0935ac",
+                            "x": 108,
+                            "y": 192
+                        },
+                        {
+                            "u": "https://preview.redd.it/by0denvaldv71.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=c1a86c58a545bb6ce883dbd5bd2027b6805fd1e0",
+                            "x": 216,
+                            "y": 384
+                        },
+                        {
+                            "u": "https://preview.redd.it/by0denvaldv71.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6187796206e5f27855d6e1f35821de77ba76bc03",
+                            "x": 320,
+                            "y": 568
+                        },
+                        {
+                            "u": "https://preview.redd.it/by0denvaldv71.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ba4de7b2a2527c733940bd92f0f67ac00c99d0f",
+                            "x": 640,
+                            "y": 1137
+                        },
+                        {
+                            "u": "https://preview.redd.it/by0denvaldv71.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=b39f4db68f8552d67d38648dd49fbeb924c007d4",
+                            "x": 960,
+                            "y": 1706
+                        },
+                        {
+                            "u": "https://preview.redd.it/by0denvaldv71.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=296e0c75b65bf86b739b15a7a9e52a0df227e83c",
+                            "x": 1080,
+                            "y": 1920
+                        }
+                    ],
+                    "s": {
+                        "u": "https://preview.redd.it/by0denvaldv71.jpg?width=2268&amp;format=pjpg&amp;auto=webp&amp;s=9b51bc1f1ec66f9ab84567721b4d67d5803433e8",
+                        "x": 2268,
+                        "y": 4032
+                    },
+                    "status": "valid"
+                },
+                "d6e7iqjaldv71": {
+                    "e": "Image",
+                    "id": "d6e7iqjaldv71",
+                    "m": "image/jpg",
+                    "p": [
+                        {
+                            "u": "https://preview.redd.it/d6e7iqjaldv71.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=b216e21342ebf1b9252e4ee7ce9b2791b972184a",
+                            "x": 108,
+                            "y": 192
+                        },
+                        {
+                            "u": "https://preview.redd.it/d6e7iqjaldv71.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=c189a406942d2c42cffcfce40c4d60447d1d4549",
+                            "x": 216,
+                            "y": 384
+                        },
+                        {
+                            "u": "https://preview.redd.it/d6e7iqjaldv71.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=406e8b2a8a66a00b66d41a7f039ac45b6acd1906",
+                            "x": 320,
+                            "y": 568
+                        },
+                        {
+                            "u": "https://preview.redd.it/d6e7iqjaldv71.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a30258250610ea1a41189a839ecbd8123b93257",
+                            "x": 640,
+                            "y": 1137
+                        },
+                        {
+                            "u": "https://preview.redd.it/d6e7iqjaldv71.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=74f2f70552ba7cfc9bf785c13b5f6cbbe0195e69",
+                            "x": 960,
+                            "y": 1706
+                        },
+                        {
+                            "u": "https://preview.redd.it/d6e7iqjaldv71.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=f4194349a04a12e0d25eadcfbe130e3382bb298d",
+                            "x": 1080,
+                            "y": 1920
+                        }
+                    ],
+                    "s": {
+                        "u": "https://preview.redd.it/d6e7iqjaldv71.jpg?width=2268&amp;format=pjpg&amp;auto=webp&amp;s=6352e53af93fe7ed17bddc013bf0a995bf57ac05",
+                        "x": 2268,
+                        "y": 4032
+                    },
+                    "status": "valid"
+                },
+                "ie6tvhgaldv71": {
+                    "e": "Image",
+                    "id": "ie6tvhgaldv71",
+                    "m": "image/jpg",
+                    "p": [
+                        {
+                            "u": "https://preview.redd.it/ie6tvhgaldv71.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ee2fef6ed2a4c7e7ff43b52c4ddfdf48e757fd4b",
+                            "x": 108,
+                            "y": 192
+                        },
+                        {
+                            "u": "https://preview.redd.it/ie6tvhgaldv71.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=d9ff26f637fdf618450c77e10f399163d8bed241",
+                            "x": 216,
+                            "y": 384
+                        },
+                        {
+                            "u": "https://preview.redd.it/ie6tvhgaldv71.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ef1bbc25ea380bbe85b9559841060179cbf7ae16",
+                            "x": 320,
+                            "y": 568
+                        },
+                        {
+                            "u": "https://preview.redd.it/ie6tvhgaldv71.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=178ecdde8df6c5f2e30f070ebb91cc08ed97b371",
+                            "x": 640,
+                            "y": 1137
+                        },
+                        {
+                            "u": "https://preview.redd.it/ie6tvhgaldv71.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=03fb11246d934cf46c844a6cc42420263474425e",
+                            "x": 960,
+                            "y": 1706
+                        },
+                        {
+                            "u": "https://preview.redd.it/ie6tvhgaldv71.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=31dde24cce387213ab8eaaa9c235ee3ff0bd6a80",
+                            "x": 1080,
+                            "y": 1920
+                        }
+                    ],
+                    "s": {
+                        "u": "https://preview.redd.it/ie6tvhgaldv71.jpg?width=2268&amp;format=pjpg&amp;auto=webp&amp;s=3674a02e756b4c9423b991391a63d07119c67029",
+                        "x": 2268,
+                        "y": 4032
+                    },
+                    "status": "valid"
+                }
+            },
+            "media_only": false,
+            "no_follow": false,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/cakedecorating/comments/qepkec/my_first_time_making_sugar_flowers_and_using/",
+            "pinned": false,
+            "pwls": 6,
+            "retrieved_on": 1635071438,
+            "score": 1,
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "cakedecorating",
+            "subreddit_id": "t5_2udns",
+            "subreddit_subscribers": 127888,
+            "subreddit_type": "public",
+            "thumbnail": "https://b.thumbs.redditmedia.com/BTbw0xUfPaJnRKb3bbEg9CGnuobU48Mvzym7ycplaUQ.jpg",
+            "thumbnail_height": 140,
+            "thumbnail_width": 140,
+            "title": "My first time making sugar flowers and using fondant",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://www.reddit.com/gallery/qepkec",
+            "url_overridden_by_dest": "https://www.reddit.com/gallery/qepkec",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "the_plumish",
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_text": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_69be2rsy",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1635071969,
+            "domain": "self.BuddyCrossing",
+            "full_link": "https://www.reddit.com/r/BuddyCrossing/comments/qepomp/flower_delivery/",
+            "gildings": {},
+            "id": "qepomp",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#ccac2b",
+            "link_flair_richtext": [],
+            "link_flair_template_id": "cda6eb6a-12ea-11eb-a505-0e815b8038e7",
+            "link_flair_text": "GIVEAWAY",
+            "link_flair_text_color": "light",
+            "link_flair_type": "text",
+            "locked": false,
+            "media_only": false,
+            "no_follow": true,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/BuddyCrossing/comments/qepomp/flower_delivery/",
+            "pinned": false,
+            "pwls": 6,
+            "retrieved_on": 1635071979,
+            "score": 1,
+            "selftext": "happy sunday everyone. i\u2019ve got a ton of flowers (mostly normal) that i need to get rid of. if you would like some just tell me the type or color and i\u2019ll deliver them to your island. feel free to ask for multiple pocketfuls i don\u2019t mind making the extra trips (\u00b4\ua4b3`)",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "BuddyCrossing",
+            "subreddit_id": "t5_2y0d6",
+            "subreddit_subscribers": 94191,
+            "subreddit_type": "public",
+            "thumbnail": "self",
+            "title": "flower delivery \ud83d\udc90",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://www.reddit.com/r/BuddyCrossing/comments/qepomp/flower_delivery/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "hechang27",
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_text": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_n6try",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1635072258,
+            "domain": "self.Atelier",
+            "full_link": "https://www.reddit.com/r/Atelier/comments/qepqpm/atelier_ryza_midgame_gem_farming/",
+            "gildings": {},
+            "id": "qepqpm",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#edeff1",
+            "link_flair_css_class": "generic",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Ryza Series"
+                }
+            ],
+            "link_flair_template_id": "fa0475e6-e1c8-11e9-b7ec-0e182fcc7464",
+            "link_flair_text": "Ryza Series",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media_only": false,
+            "no_follow": true,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "some_ads",
+            "permalink": "/r/Atelier/comments/qepqpm/atelier_ryza_midgame_gem_farming/",
+            "pinned": false,
+            "post_hint": "self",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "cj5iOD48XgVmERWSK5KI1_VbbOtn8490o-d_nASwbd0",
+                        "resolutions": [
+                            {
+                                "height": 81,
+                                "url": "https://external-preview.redd.it/SSBzivJTnTu-PFAlU-B7voThps93GcNiLCdUJ6ZTQkQ.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=03fa0fb688ad6180b2ee105b6b9c7e05ff534db3",
+                                "width": 108
+                            },
+                            {
+                                "height": 162,
+                                "url": "https://external-preview.redd.it/SSBzivJTnTu-PFAlU-B7voThps93GcNiLCdUJ6ZTQkQ.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=760470f24c0a210283f5962cb5592318d309179e",
+                                "width": 216
+                            },
+                            {
+                                "height": 240,
+                                "url": "https://external-preview.redd.it/SSBzivJTnTu-PFAlU-B7voThps93GcNiLCdUJ6ZTQkQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=80456b4dd7178126b2effac9d40c2d75fd366906",
+                                "width": 320
+                            }
+                        ],
+                        "source": {
+                            "height": 360,
+                            "url": "https://external-preview.redd.it/SSBzivJTnTu-PFAlU-B7voThps93GcNiLCdUJ6ZTQkQ.jpg?auto=webp&amp;s=46020b509c0a3dd6c0c806f2a1bd95f8eb423177",
+                            "width": 480
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 7,
+            "retrieved_on": 1635072269,
+            "score": 1,
+            "selftext": "Here is a recipe for farming alchemy gems in mid game. I learned about it in the comment section of [this video](https://youtu.be/J7vN3kjKZhc), compared to the method in the video, this method is much slower but doesn't require Red Stone and can be done in Chapter 4:\n\nPrereq: \n\n1. Farm about 30k gems from various means\n2. You need to get to Liese Valley - Broken Defense Line and unlock the item duplicator.\n3. Follow the Dye Factory quests from Pat in Old Town until you unlock Fragrant Memories from Barbara.\n4. Gather Rose Leaves (probably at lease 3) and Delphi Roses from Ancient Battlefield and make a Delphi Rose Incense with Synth Quantities +2\n5. Unlock the recipe of Glass Flower\n6. Farm Roteswasser Tonic from Sweet River in Maple Delta\n\nNow after getting Delphi Rose Incense with Synth Quantities +2, convert all of your gems into Delphi Roses, and use them to synthesize Glass Flowers by combining 1 Rotewasser Tonic with as much as Delphi Roses you can add. Repeat this until you are left with just 1 or 2 Delphi Roses. Now convert all of the crafted Glass Flowers into gems, use the gems to duplicate Delphi Roses, rinse and repeat, you should get about 3.8x the amount of gems invested.",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "Atelier",
+            "subreddit_id": "t5_2ysy9",
+            "subreddit_subscribers": 12121,
+            "subreddit_type": "public",
+            "thumbnail": "self",
+            "title": "[Atelier Ryza] Mid-game gem farming",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://www.reddit.com/r/Atelier/comments/qepqpm/atelier_ryza_midgame_gem_farming/",
+            "whitelist_status": "some_ads",
+            "wls": 7
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "green_moss_tea",
+            "author_flair_background_color": "#7193ff",
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": "9d27aa4a-e69f-11eb-8655-0e98ce7da1c7",
+            "author_flair_text": "Mage",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "text",
+            "author_fullname": "t2_coib8z4f",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1635072318,
+            "domain": "self.OtomeIsekai",
+            "full_link": "https://www.reddit.com/r/OtomeIsekai/comments/qepr4z/asking_for_ois_that_stand_out_stylistically_and_a/",
+            "gildings": {},
+            "id": "qepr4z",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_richtext": [],
+            "link_flair_template_id": "b0a81df4-6e70-11eb-88e7-0ebdd8248c49",
+            "link_flair_text": "Discussion Thread",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "text",
+            "locked": false,
+            "media_only": false,
+            "no_follow": false,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "no_ads",
+            "permalink": "/r/OtomeIsekai/comments/qepr4z/asking_for_ois_that_stand_out_stylistically_and_a/",
+            "pinned": false,
+            "pwls": 0,
+            "retrieved_on": 1635072330,
+            "score": 1,
+            "selftext": "I think I have reached the moment when I am still interested in OI stories, but feel tired of pastel pinks and blues, ribbons and flowers. And especially of these stupid giant gemstone accessories. I have started to recognize not only the castle-nim, but also the round glass carriage, the blue tea set, the cakes and the cookies, the palace glasshouse garden and the pond, the freesias, the lilacs and gypsophila ornament, and the round swords emblem to name a few of the repeating props.\n\nI do respect that this style works and that the genre has its own expressive means \u2013 mainly dresses and background ornaments, but also specific character design features. I also understand that the art differs between the colored long strips and manga, western and eastern settings, and that there\u2019re exceptions, especially among OIs that are not actually isekai. There\u2019re recognizable smaller groups too, like manhwa with a somewhat darker atmosphere like in *There Is Only Death for the Villainess* or *Shadow Queen*, Celtic themed subdued colors like in *Under the Oak Tree* or *Wind on a Dry Branch*.\n\nBut I also remember that I sat through the incredibly rough, both art-wise and narration-wise, beginning of Roxana\u2019s journey purely because it was reds, blacks, and giant spiders \u2013 finally a Halloween among the endless Easter. It felt so damn fresh.\n\nThere\u2019s also the big question why the standards for backgrounds are so low, or to be precise the standards for most things non-romance. Again, I love the genre for what it offers and understand that the artists in it are likely working in tight conditions, but it\u2019s a visual medium and some backgrounds I have seen in OIs were offensive. Ugly 3d models and textures, horses and swords as if drawn by a 3 year old, wyverns from *I'll Just Live on as a Villainess* (oh god)\u2026 It\u2019s so bad that the presence of the many beautiful nature shots in the first arc of *False Confession* stands out far more than they are actually worth by themselves.\n\nPlus the panel composition is mostly uninspired. It\u2019s usually just direct shots of people talking and occasional oomph \u201clook at how pretty she/he is\u201d posh reveals divided by white space. Even expressive camera angles are, frankly, rare and indicate a better than average quality of the work, like *Your Throne*. Creative usage of page space is practically unseen. I can only think of *Lady Devil* (*Magwi*), perhaps, with Johannes coiling both on and behind the panels to show his overbearing presence and demonic unthinkable size. Hell, vertical panels are hard to come by.\n\nThere\u2019re many poorly drawn series in action isekai too, but the bar for environments, panel composition, and dynamic drawings is higher, it seems to me. It\u2019s not only *Solo Leveling*. What triggered this rant was me clicking on a completely random action title during my peaceful slog through *The Female Knight* and immediately noticing how bold, bright, and dynamic the art was. It was *My Lord of the Sea, Please Do Your Work!* to be exact, for god\u2019s sake. Yeah, action comics art has a rich tradition behind it and you would not shake camera too much when characters simply talk. OIs with action may have more movement already, think *Carrier Falcon Princess* or flashbacks from *Blinded by the Setting Sun*. But then if, I dunno, I look into higher grade BL drama web comics, they can have festival drama cinematography, with rich symbolism, emotional angled camera, atmospheric environment shots, and artistic lighting. Also there\u2019s a notable lack of certain things in OIs that could have been easily borrowed from action fantasy \u2013 for example, cooler monster designs or proper magic lights. Shiny reflective magic is bread and butter in action, but somehow never truly crosses into romance with magic.\n\nSo basically I am interested in what you think about the artstyle in OIs and its variety. Do you find it samey? Do you mind? \n\nAnd backgrounds issue, which I think we can agree exists, what is the true reason behind it? Do artists think backgrounds do not matter? Are OIs less profitable than action and thus drawn cheaper? Do dresses take all the energy and effort in fact, so there actually is a parity in artist investment?\n\nAnd, of course, I would humbly ask to rec OIs with different art.",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "OtomeIsekai",
+            "subreddit_id": "t5_1zqfgn",
+            "subreddit_subscribers": 26655,
+            "subreddit_type": "public",
+            "suggested_sort": "top",
+            "thumbnail": "self",
+            "title": "Asking for OIs that stand out stylistically and a rant about the art",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://www.reddit.com/r/OtomeIsekai/comments/qepr4z/asking_for_ois_that_stand_out_stylistically_and_a/",
+            "whitelist_status": "no_ads",
+            "wls": 0
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "Puzzleheaded_Tree290",
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_text": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_fsqmlszr",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1635072471,
+            "domain": "self.offmychest",
+            "full_link": "https://www.reddit.com/r/offmychest/comments/qeps94/when_someone_elses_trauma_rubs_off_on_you/",
+            "gildings": {},
+            "id": "qeps94",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_richtext": [],
+            "link_flair_text_color": "dark",
+            "link_flair_type": "text",
+            "locked": false,
+            "media_only": false,
+            "no_follow": true,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "no_ads",
+            "permalink": "/r/offmychest/comments/qeps94/when_someone_elses_trauma_rubs_off_on_you/",
+            "pinned": false,
+            "pwls": 0,
+            "retrieved_on": 1635072482,
+            "score": 1,
+            "selftext": "This is going to be a very long post and I just want to warn anyone about that right off the bat. I'll include a TLDR at the end, but even that might be a little long. I've had so many feelings bottled up for months, anger primarily, guilt, sadness, the feeling that I'm the villain in my story and the feeling that I'm hurting innocent people, among many other things. It's a long story. I really need help from someone, anyone, it doesn't matter. My name is Claire and I'm sixteen. I'm English. \n\nAlso, I just want to add that I'll be discussing things that may be sensitive and hard to talk about for some. In particular, death, and the cremation process. \n\nMy mum, Marnie was raised in an abusive Foster family and after a horribly traumatic experience in the church, joined the Royal navy on her sixteenth birthday. Around 2003 she met a civilian man shortly after coming home from her first deployment in Afghanistan. They got married the following year and had me after that. She has a lifelong friend called Heidi, she sadly lost her sister on when she was ten years old and it took a huge toll on her. Her and my mum were very close and helped each other through their trauma. This is where the story gets a little complicated\nSo, my little sister was born a few years after me. Unbeknownst to me at the time, Heidi had just opened up a funeral home. My mum was still in the military, and on her third deployment, to Iraq, my sister and I stayed with her for the best part of a year. During this time Heidi became a mother figure to us and I found out that Heidi worked in the funeral business but wasn't exactly sure what she did at work. When my mum came home, her and my father got a divorce. It wasn't a messy divorce, they never fell out but they just grew apart. Heidi then moved in with us and at this point was like a second mother to us.\n\nIn 2015, things took a turn for the worst. My father died in February in a road accident. In June, my sister was diagnosed with cancer. Leukaemia to be specific. She was four. Shortly after her diagnosis my mum left the military, but struggled to find work afterwards for about three years. Heidi kept us going, and I really have to say, she was our hero. She took care of us all. Over my sisters last few months Heidi would paint her head for her with flowers when her hair fell out. It meant a lot to my sister because she was afraid of losing her hair and said the flowers made her look pretty. I know this meant a lot to her. She died on May 29th in hospice care. This is where things really get bad. Heidi made a promise to my sister to take care of her the whole way through. Honestly, her death affected her terribly. My sister was genuinely like a daughter to her. She was only pregnant once and had a miscarriage and my sister was able to be the child she could love and take care of and protect. \n\nHeidi asked my mother to cremate my sisters body. My mother said no a few times but eventually agreed to, only our of desperation. That's when I found out Heidi did cremations, by the way. And to tell the truth I'm very upset. My sister was afraid of fire. It terrified her to the point where we couldn't even have candles in the house. I know Heidi meant well, she opened the funeral home in her own sister's honour. She was very upset at how the people burying her sister treated her and she said she wanted to be able to give the dead more dignity. She said just because someone is dead it doesn't mean they're not a human being, and wants to give them as much respect as possible. She does cremations and sometimes worked with burials, helping people design headstones and things like that. \n\nI'm just very angry. I'm sorry, but I can't help it. It's not fair at all. I wasn't told my sister was being cremated until the day of her funeral. Heidi could have at least told me. I'm very upset. And I'm angry at what my sister's body went through. And it's not a matte r of cremation vs burial, I just think the process is messed up. She had her bones crushed with a rake. She was ground up on a blender and emptied into a plastic bag. I just wanted anything but this. Like, I don't care, Bury her, or even cremate her without the horrible machines, but it's so messed up what Heidi did, and then she turns around and says she wanted to take care of her.\n\nSo, my little sister was born a few years after me. Unbeknownst to me at the time, Heidi had just opened up a funeral home. My mum was still in the military, and on her third deployment, to Iraq, my sister and I stayed with her for the best part of a year. During this time Heidi became a mother figure to us and I found out that Heidi worked in the funeral business but wasn't exactly sure what she did at work. When my mum came home, her and my father got a divorce. It wasn't a messy divorce, they never fell out but they just grew apart. Heidi then moved in with us and at this point was like a second mother to us.\n\nIn 2015, things took a turn for the worst. My father died in February in a road accident. In June, my sister was diagnosed with cancer. Leukaemia to be specific. She was four. Shortly after her diagnosis my mum left the military, but struggled to find work afterwards for about three years. Heidi kept us going, and I really have to say, she was our hero. She took care of us all. Over my sisters last few months Heidi would paint her head for her with flowers when her hair fell out. It meant a lot to my sister because she was afraid of losing her hair and said the flowers made her look pretty. I know this meant a lot to her. She died on May 29th in hospice care. This is where things really get bad. Heidi made a promise to my sister to take care of her the whole way through. Honestly, her death affected her terribly. My sister was genuinely like a daughter to her. She was only pregnant once and had a miscarriage and my sister was able to be the child she could love and take care of and protect. \n\nHeidi asked my mother to cremate my sisters body. My mother said no a few times but eventually agreed to, only our of desperation. That's when I found out Heidi did cremations, by the way. And to tell the truth I'm very upset. My sister was afraid of fire. It terrified her to the point where we couldn't even have candles in the house. I know Heidi meant well, she opened the funeral home in her own sister's honour. She was very upset at how the people burying her sister treated her and she said she wanted to be able to give the dead more dignity. She said just because someone is dead it doesn't mean they're not a human being, and wants to give them as much respect as possible. She does cremations and sometimes worked with burials, helping people design headstones and things like that. \n\nI'm just very angry. I'm sorry, but I can't help it. It's not fair at all. I wasn't told my sister was being cremated until the day of her funeral. Heidi could have at least told me. I'm very upset. And I'm angry at what my sister's body went through. And it's not a matte r of cremation vs burial, I just think the process is messed up. She had her bones crushed with a rake. She was ground up on a blender and emptied into a plastic bag. I just wanted anything but this. Like, I don't care, Bury her, or even cremate her without the horrible machines, but it's so messed up what Heidi did, and then she turns around and says she wanted to take care of her.\n\nAnd Heidi keeps trying to apologise and making things worse. She told me if I wanted she could get me an urn with a picture of my sister r on it so I said yes, hoping it would help. Then I seen the woman try and shove the bag of ashes into it without warning and it burst and bits of my sister fell onto the floor and then she swept them up with a dustpan and brush and I felt sick to the stomach and I'll l never get it out of my head. I hoped having some of the ashes turned into a gemstone would help. Heidi suggested that too. I agreed again, thinking it would help. She got some made into a blue gem on a necklace but the ashes are in this middle making a swirl pattern and I just hate it so much.\n\nThe peak of my anger was on my sixteenth birthday a few weeks ago. Heidi said she thought having a doll that looked like my sister would help. She made me one. And it had some of the ashes in it. Like, what do I do with this? It ruined my birthday and I tried so hard not to explode at her but failed and I pushed her off me when she tried hugging me and I feel awful now. Just absolutely awful.\n\nHer colleagues are horrible. Funnily enough, Heidi is actually genuine. I know she cares. But one colleague sent me a very condescending letter that sounded nice at first but she didn't acknowledge my loss. She tried telling me her problems and how hard it is for her to cremate kids. She said \"If you ever feel up to it, letting her know you're thankful for taking care of your sister can be the most gracious thing to hear.\" It just felt fake and manipulative and made it sound like I want to thank Heidi. I did thank her but it was so forced and hard to do. Honestly, aside from Heidi all her colleagues seem like emotional vampires. They willingly put themselves around people at their lowest to pretend to help them and act so privelledged and get a pat on the back. Look, I'm NOT thankful to people who work at crematoria. I think their job may be a necessity but it's not something that deserves thanks. I don't like them. I'm not thankful to Heidi for incinerating my sister and crushing her up. I'm not thankful to any of them.\n\nI'm sorry. Some days I'd talk about how much I hate Heidi and how she doesn't care and how she's horrible but I know she's not. She DOES care. She does love me and my mum and she did love my sister. It's just hard. Her colleagues told me \"You're not the only one who's grieving\", but neither is Heidi. I'm grieving too. I'm sad, I'm angry and the least the woman could have done was giving my sister dignity. I know she cares, when she cremated kids she pays for their urns and little keepsakes for the families with her own money, and she did my sister for free. I know she loved her. But she messed up. And I'm angry. Nothing about what happened to my sister is comforting, no matter what I do with the ashes and her urn is ugly and I hate it and I keep drinking to try and numb the pain and end up yelling at Heidi or my mum and feel horrible. I'm trying. I'm really trying here. It's not fair.\n\nTLDR; A family friend with good intentions gave my dead sister a free cremation. She didn't tell me until right before the funeral and I can't find any comfort in her being cremated. I hate having her ashes and I don't respect anyone who works doing cremations but I know Heidi meant well. She keeps giving me gifts I hate to try and remember my sister and I feel like a monster for getting angry at her",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "offmychest",
+            "subreddit_id": "t5_2ranw",
+            "subreddit_subscribers": 2555583,
+            "subreddit_type": "public",
+            "thumbnail": "self",
+            "title": "When someone else's trauma rubs off on you",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://www.reddit.com/r/offmychest/comments/qeps94/when_someone_elses_trauma_rubs_off_on_you/",
+            "whitelist_status": "no_ads",
+            "wls": 0
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "Stranghanger",
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_text": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_53sm0tb7",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "content_categories": [
+                "writing"
+            ],
+            "contest_mode": false,
+            "created_utc": 1635072600,
+            "domain": "self.OCPoetry",
+            "full_link": "https://www.reddit.com/r/OCPoetry/comments/qept8s/looking_backwards/",
+            "gildings": {},
+            "id": "qept8s",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_richtext": [],
+            "link_flair_text_color": "dark",
+            "link_flair_type": "text",
+            "locked": false,
+            "media_only": false,
+            "no_follow": true,
+            "num_comments": 1,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/OCPoetry/comments/qept8s/looking_backwards/",
+            "pinned": false,
+            "pwls": 6,
+            "retrieved_on": 1635072611,
+            "score": 1,
+            "selftext": "I never carried a camera \n\nThrough all the years\n\nStories I have so many\nBut so few photographs \nTo prove they're real\n\nI did this on purpose \n\nI didn't understand why til now\n\nNow the end of this grandest of adventures \nThe journey that ties them all together \nGrows nearer every year\n\nMy beard is gray\nMy body exhausted \n\nMy youth spent \nLike a drunkards pay\nAt the closest bar at hand \n\nNow is the time I look back \nThrough all the years \n\nBack to the days when\nMy body was strong\nMy vision was clear\n\nSo many things that I looked at\nI recognized that it was something special to behold \n\nI made myself look again\n\nStudy this I would say to myself\nYou will need to remember this someday\n\nI bore all my friends and my loved ones with my stories\n\nOr maybe tall tales \nTo those that can't see\n\nAll of these images that only I can\n\nOf women so beautiful they would steal ones heart away\n\nI can remember how they felt like was only yesterday\n\nTheir breath on my skin\nThe caress of their touch\n\nOr maybe of the men that adventures I've shared\n\nBigger than life itself\nWe were all so bulletproof \n\nOf dark Georgia swamps in our combat fatigues \nWorn down of our bravado until we were truly strong\n\nOf dangling on a rope on grandfather's face \n\nBelow my feet \nOne thousand feet\nOf North Carolina stone\n\nA trusted companion at the other end\nLaughing at my predicament \n\nEgging me onwards \n\nHis strength transferred to me\nThrough the rope he held firm\n\nPerhaps more to your taste would be the earth in its glory \n\nI've stood on Rocky mountain summits with ice on my face\nThe wind so strong I feared it would carry me away\n\nOf nights at sea \nBoth stormy and calm\n\nMother ocean is so moody \n\nShe is like a vengeful lover \nSoothing your fears with\nBlue seas and calm\n\nThen when you're at peace she strikes the alarm\n\nYou night is spent crashing \nFrom wave top to trough\n\nWater stacked higher \nThan a building over your head\nYou wonder what you said\nThat really pissed her off\n\nA thousand sunsets and a thousand sun rise\n\nA camera could never do it justice\n\nYou cannot smell the desert flowers as the evening breeze cools the land\n\nBurning during the day\nBut so aromatic in the night\n\nI've never carried a camera\n\nI never thought it was worth it\nThe short comings so many\n\nThe pictures look empty and hollow to me\n\nI could tell you many a tale\nAnd if you had the patience to hear me out\n\nI would look backwards\n\nInstead of a picture \nA cheap imitation \n\nI can use my words to take you to flight\n\nYou could hear the rushing sea \nFeel the waves neath your feet\n\nYou could hold my hand on a precipe\nand feel the mountains breeze\n\nBut things are so hurried now\nNo one has the time\n\nTo hear an old man talk \nAbout the gallery in his mind\n\nIts just as well\n\nI have the memories \nThe photos in my head \n\nIf you see me sitting quietly \nWith a faraway look on my face \nI'm just looking backwards\n\nBack to when I lived the grandest life\n\nIf you've time on your hands and a mind to just ask\n\nIts lonely sometime\nWhen looking back\n\nTo take a friend to one of those special places\n\nIts makes me happy \nThat I did indeed save it\n\n\n\nhttps://www.reddit.com/r/OCPoetry/comments/qegezq/intimacy/hhubgit\n\nhttps://www.reddit.com/r/OCPoetry/comments/qe3rd4/prophetic/hhuiqfh",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "OCPoetry",
+            "subreddit_id": "t5_30xom",
+            "subreddit_subscribers": 118897,
+            "subreddit_type": "public",
+            "thumbnail": "self",
+            "title": "Looking backwards",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://www.reddit.com/r/OCPoetry/comments/qept8s/looking_backwards/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "Puzzleheaded_Tree290",
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_text": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_fsqmlszr",
+            "author_is_blocked": false,
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "can_mod_post": false,
+            "contest_mode": false,
+            "created_utc": 1635072643,
+            "domain": "self.KindVoice",
+            "full_link": "https://www.reddit.com/r/KindVoice/comments/qeptld/l_someone_else_whos_also_traumatised_tried/",
+            "gildings": {},
+            "id": "qeptld",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_css_class": "red",
+            "link_flair_richtext": [],
+            "link_flair_text": "Looking",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "text",
+            "locked": false,
+            "media_only": false,
+            "no_follow": true,
+            "num_comments": 1,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "no_ads",
+            "permalink": "/r/KindVoice/comments/qeptld/l_someone_else_whos_also_traumatised_tried/",
+            "pinned": false,
+            "pwls": 0,
+            "retrieved_on": 1635072653,
+            "score": 1,
+            "selftext": "This is going to be a very long post and I just want to warn anyone about that right off the bat. I'll include a TLDR at the end, but even that might be a little long. I've had so many feelings bottled up for months, anger primarily, guilt, sadness, the feeling that I'm the villain in my story and the feeling that I'm hurting innocent people, among many other things. It's a long story. I really need help from someone, anyone, it doesn't matter. My name is Claire and I'm sixteen. I'm English. \n\nAlso, I just want to add that I'll be discussing things that may be sensitive and hard to talk about for some. In particular, death, and the cremation process. \n\nMy mum, Marnie was raised in an abusive Foster family and after a horribly traumatic experience in the church, joined the Royal navy on her sixteenth birthday. Around 2003 she met a civilian man shortly after coming home from her first deployment in Afghanistan. They got married the following year and had me after that. She has a lifelong friend called Heidi, she sadly lost her sister on when she was ten years old and it took a huge toll on her. Her and my mum were very close and helped each other through their trauma. This is where the story gets a little complicated\nSo, my little sister was born a few years after me. Unbeknownst to me at the time, Heidi had just opened up a funeral home. My mum was still in the military, and on her third deployment, to Iraq, my sister and I stayed with her for the best part of a year. During this time Heidi became a mother figure to us and I found out that Heidi worked in the funeral business but wasn't exactly sure what she did at work. When my mum came home, her and my father got a divorce. It wasn't a messy divorce, they never fell out but they just grew apart. Heidi then moved in with us and at this point was like a second mother to us.\n\nIn 2015, things took a turn for the worst. My father died in February in a road accident. In June, my sister was diagnosed with cancer. Leukaemia to be specific. She was four. Shortly after her diagnosis my mum left the military, but struggled to find work afterwards for about three years. Heidi kept us going, and I really have to say, she was our hero. She took care of us all. Over my sisters last few months Heidi would paint her head for her with flowers when her hair fell out. It meant a lot to my sister because she was afraid of losing her hair and said the flowers made her look pretty. I know this meant a lot to her. She died on May 29th in hospice care. This is where things really get bad. Heidi made a promise to my sister to take care of her the whole way through. Honestly, her death affected her terribly. My sister was genuinely like a daughter to her. She was only pregnant once and had a miscarriage and my sister was able to be the child she could love and take care of and protect. \n\nHeidi asked my mother to cremate my sisters body. My mother said no a few times but eventually agreed to, only our of desperation. That's when I found out Heidi did cremations, by the way. And to tell the truth I'm very upset. My sister was afraid of fire. It terrified her to the point where we couldn't even have candles in the house. I know Heidi meant well, she opened the funeral home in her own sister's honour. She was very upset at how the people burying her sister treated her and she said she wanted to be able to give the dead more dignity. She said just because someone is dead it doesn't mean they're not a human being, and wants to give them as much respect as possible. She does cremations and sometimes worked with burials, helping people design headstones and things like that. \n\nI'm just very angry. I'm sorry, but I can't help it. It's not fair at all. I wasn't told my sister was being cremated until the day of her funeral. Heidi could have at least told me. I'm very upset. And I'm angry at what my sister's body went through. And it's not a matte r of cremation vs burial, I just think the process is messed up. She had her bones crushed with a rake. She was ground up on a blender and emptied into a plastic bag. I just wanted anything but this. Like, I don't care, Bury her, or even cremate her without the horrible machines, but it's so messed up what Heidi did, and then she turns around and says she wanted to take care of her.\n\nSo, my little sister was born a few years after me. Unbeknownst to me at the time, Heidi had just opened up a funeral home. My mum was still in the military, and on her third deployment, to Iraq, my sister and I stayed with her for the best part of a year. During this time Heidi became a mother figure to us and I found out that Heidi worked in the funeral business but wasn't exactly sure what she did at work. When my mum came home, her and my father got a divorce. It wasn't a messy divorce, they never fell out but they just grew apart. Heidi then moved in with us and at this point was like a second mother to us.\n\nIn 2015, things took a turn for the worst. My father died in February in a road accident. In June, my sister was diagnosed with cancer. Leukaemia to be specific. She was four. Shortly after her diagnosis my mum left the military, but struggled to find work afterwards for about three years. Heidi kept us going, and I really have to say, she was our hero. She took care of us all. Over my sisters last few months Heidi would paint her head for her with flowers when her hair fell out. It meant a lot to my sister because she was afraid of losing her hair and said the flowers made her look pretty. I know this meant a lot to her. She died on May 29th in hospice care. This is where things really get bad. Heidi made a promise to my sister to take care of her the whole way through. Honestly, her death affected her terribly. My sister was genuinely like a daughter to her. She was only pregnant once and had a miscarriage and my sister was able to be the child she could love and take care of and protect. \n\nHeidi asked my mother to cremate my sisters body. My mother said no a few times but eventually agreed to, only our of desperation. That's when I found out Heidi did cremations, by the way. And to tell the truth I'm very upset. My sister was afraid of fire. It terrified her to the point where we couldn't even have candles in the house. I know Heidi meant well, she opened the funeral home in her own sister's honour. She was very upset at how the people burying her sister treated her and she said she wanted to be able to give the dead more dignity. She said just because someone is dead it doesn't mean they're not a human being, and wants to give them as much respect as possible. She does cremations and sometimes worked with burials, helping people design headstones and things like that. \n\nI'm just very angry. I'm sorry, but I can't help it. It's not fair at all. I wasn't told my sister was being cremated until the day of her funeral. Heidi could have at least told me. I'm very upset. And I'm angry at what my sister's body went through. And it's not a matte r of cremation vs burial, I just think the process is messed up. She had her bones crushed with a rake. She was ground up on a blender and emptied into a plastic bag. I just wanted anything but this. Like, I don't care, Bury her, or even cremate her without the horrible machines, but it's so messed up what Heidi did, and then she turns around and says she wanted to take care of her.\n\nAnd Heidi keeps trying to apologise and making things worse. She told me if I wanted she could get me an urn with a picture of my sister r on it so I said yes, hoping it would help. Then I seen the woman try and shove the bag of ashes into it without warning and it burst and bits of my sister fell onto the floor and then she swept them up with a dustpan and brush and I felt sick to the stomach and I'll l never get it out of my head. I hoped having some of the ashes turned into a gemstone would help. Heidi suggested that too. I agreed again, thinking it would help. She got some made into a blue gem on a necklace but the ashes are in this middle making a swirl pattern and I just hate it so much.\n\nThe peak of my anger was on my sixteenth birthday a few weeks ago. Heidi said she thought having a doll that looked like my sister would help. She made me one. And it had some of the ashes in it. Like, what do I do with this? It ruined my birthday and I tried so hard not to explode at her but failed and I pushed her off me when she tried hugging me and I feel awful now. Just absolutely awful.\n\nHer colleagues are horrible. Funnily enough, Heidi is actually genuine. I know she cares. But one colleague sent me a very condescending letter that sounded nice at first but she didn't acknowledge my loss. She tried telling me her problems and how hard it is for her to cremate kids. She said \"If you ever feel up to it, letting her know you're thankful for taking care of your sister can be the most gracious thing to hear.\" It just felt fake and manipulative and made it sound like I want to thank Heidi. I did thank her but it was so forced and hard to do. Honestly, aside from Heidi all her colleagues seem like emotional vampires. They willingly put themselves around people at their lowest to pretend to help them and act so privelledged and get a pat on the back. Look, I'm NOT thankful to people who work at crematoria. I think their job may be a necessity but it's not something that deserves thanks. I don't like them. I'm not thankful to Heidi for incinerating my sister and crushing her up. I'm not thankful to any of them.\n\nI'm sorry. Some days I'd talk about how much I hate Heidi and how she doesn't care and how she's horrible but I know she's not. She DOES care. She does love me and my mum and she did love my sister. It's just hard. Her colleagues told me \"You're not the only one who's grieving\", but neither is Heidi. I'm grieving too. I'm sad, I'm angry and the least the woman could have done was giving my sister dignity. I know she cares, when she cremated kids she pays for their urns and little keepsakes for the families with her own money, and she did my sister for free. I know she loved her. But she messed up. And I'm angry. Nothing about what happened to my sister is comforting, no matter what I do with the ashes and her urn is ugly and I hate it and I keep drinking to try and numb the pain and end up yelling at Heidi or my mum and feel horrible. I'm trying. I'm really trying here. It's not fair.\n\nTLDR; A family friend with good intentions gave my dead sister a free cremation. She didn't tell me until right before the funeral and I can't find any comfort in her being cremated. I hate having her ashes and I don't respect anyone who works doing cremations but I know Heidi meant well. She keeps giving me gifts I hate to try and remember my sister and I feel like a monster for getting angry at her",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "KindVoice",
+            "subreddit_id": "t5_2xjrr",
+            "subreddit_subscribers": 64252,
+            "subreddit_type": "public",
+            "suggested_sort": "new",
+            "thumbnail": "self",
+            "title": "[L] Someone else who's also traumatised tried helping out me and my family after my sister died, but deeply upset me. I feel horrible for being angry but can't help hating her.",
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://www.reddit.com/r/KindVoice/comments/qeptld/l_someone_else_whos_also_traumatised_tried/",
+            "whitelist_status": "no_ads",
+            "wls": 0
+        }
+    ]
+}
